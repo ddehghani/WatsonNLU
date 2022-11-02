@@ -38,6 +38,7 @@ async def main(args):
         save_as_json('articles.json', articles)
     
     # use articles here
+    # we should check if articles are in fact articles and then save then on a json
     print(sum([len(v) for k, v in articles.items()]))
 
 def save_as_json(filename: str, data: dict):
