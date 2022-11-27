@@ -1,13 +1,8 @@
-# from ibm_watson import NaturalLanguageUnderstandingV1
-# from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
-# from ibm_watson.natural_language_understanding_v1 import Features, EmotionOptions
-# from ibm_watson import ApiException
-from ast import arg
 import argparse
 from util import *
 from scraper import *
 from watson import WatsonNLU
-import pandas as pd
+from datapresentation import present_results
 
 # API_KEY = 'zts4dI59s4kAm3gdMjreP6gzEfz2dJt_26RqvS_LKlA0' # slow
 API_KEY = 'YlZZ1p6TYqzpemeX5-sdCjtTJJOwblN1VtueSqW8bEwg'
@@ -50,8 +45,7 @@ def main(args):
         processed_articles = nlu.analyze(articles)
         save_as_json('processed_articles.json',  processed_articles)
     
-    df = pd.DataFrame.from_dict(data = processed_articles, orient='index',columns=['sadness', 'joy', 'fear', 'disgust', 'anger'])
-    print(df)
+    present_results(processed_articles)
 
 def profile(args):
     import cProfile, pstats
