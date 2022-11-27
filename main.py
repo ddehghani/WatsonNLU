@@ -30,7 +30,7 @@ def main(args):
         for index, news_website in enumerate(news_links['links']):
             if news_website not in ['https://www.seattletimes.com/', 'https://atlantaintownpaper.com/']: # problematic links
                 print(f'{news_website = }')
-                articles[news_website] = deep_search_for_links_sync(source_url = news_website, depth = 3, max_links = 100, same_domain_only = True)
+                articles[news_website] = deep_search_for_links_sync(source_url = news_website, depth = 10, max_links = 100, same_domain_only = True)
                 print(f'Progress: {(index + 1) * 100 / len(news_links["links"]):0.2f}%')
         save_as_json('articles.json', articles)
     
