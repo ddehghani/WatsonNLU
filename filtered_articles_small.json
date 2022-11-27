@@ -1,0 +1,44 @@
+{
+    "https://www.nbcnews.com/": [
+        "https://www.nbcnews.com/",
+        "https://www.nbcnews.com/news/us-news/1-dead-5-injured-shooting-popular-atlanta-shopping-center-rcna58837",
+       
+        "https://www.nbcnews.com/politics/congress"
+    ],
+    "https://www.usatoday.com/": [
+        "https://www.usatoday.com/story/money/reviewed/2022/11/26/black-friday-2022-deals/10775732002/?utm_source=usat&utm_medium=hf%20flag&utm_campaign=black%20friday",
+        "https://www.usatoday.com/storytelling/sports/soccer/worldcup/world-cup-2022-schedule-scores-how-to-watch-stream/",
+        "https://www.usatoday.com/story/life/health-wellness/2021/11/19/how-navigate-uncomfortable-questions-during-holidays/8665599002/",
+        "https://www.usatoday.com/story/news/factcheck/2022/11/08/fact-check-roundup-whats-true-and-false-midterm-elections/8269862001/",
+        "https://www.usatoday.com/story/money/reviewed/2022/11/26/toy-deals-black-friday-2022/10775819002/?utm_source=usatoday&utm_medium=discover&utm_campaign=blackfriday/story/opinion/2019/12/04/submit-letters-columns-and-comment-social/2608825001/",
+        "https://www.usatoday.com/story/money/reviewed/2022/11/26/toy-deals-black-friday-2022/10775819002/?utm_source=usatoday&utm_medium=discover&utm_campaign=blackfriday/story/money/reviewed/2022/11/26/best-amazon-black-friday-deals-under-50/10782040002/",
+        "https://www.usatoday.com/story/money/reviewed/2022/11/26/toy-deals-black-friday-2022/10775819002/?utm_source=usatoday&utm_medium=discover&utm_campaign=blackfriday/pages/interactives/podcasts/",
+        "https://www.usatoday.com/story/money/reviewed/2022/11/26/toy-deals-black-friday-2022/10775819002/?utm_source=usatoday&utm_medium=discover&utm_campaign=blackfriday/travel/"
+    ],
+    "https://www.foxnews.com/": [
+        "https://www.foxnews.com/",
+        "https://www.foxnews.com/category/us/digital-originals",
+        "https://www.foxnews.com/politics/cartoons-slideshow",
+        "https://www.foxnews.com/category/faith-values/faith",
+        "https://www.foxnews.com/us/virginia-walmart-gunman-bought-9mm-firearm-legally-morning-shooting-police",
+        "https://www.foxnews.com/politics",
+      
+        "https://www.foxnews.com/category/us/terror",
+        "https://www.foxnews.com/media/daylight-savings-time-disproportionately-impacts-communities-color-insists-cnn-article"
+    ],
+    "https://www.nytimes.com/": [
+        "https://www.nytimes.com/2022/11/26/climate/fighting-shrinkflation-consumer-products.html",
+        "https://www.nytimes.com/2022/11/27/opinion/a-good-will-government-was-possible-in-israel.html",
+        "https://www.nytimes.com/2022/11/26/world/europe/landslide-italy-ischia.html",
+        "https://www.nytimes.com/2022/11/24/podcasts/noah-baumbachs-disaster-movie-for-our-moment-the-week-in-reporter-reads.html",
+        "https://www.nytimes.com/2022/11/26/opinion/congress-child-care.html",
+        "https://www.nytimes.com/2022/11/04/climate/native-americans-relocate-climate-change.html?action=click&pgtype=Article&state=default&module=styln-climate\u00aeion=MAIN_CONTENT_1&block=storyline_levelup_swipe_recirc",
+        "https://www.nytimes.com/article/world-cup-2022-qualified-teams.html/",
+        "https://www.nytimes.com/article/world-cup-2022-qualified-teams.html#site-content",
+        "https://www.nytimes.com/article/world-cup-2022-qualified-teams.html#after-sponsor",
+        "https://www.nytimes.com/article/world-cup-2022-qualified-teams.html/?name=styln-world-cup&region=TOP_BANNER&block=storyline_menu_home_logo&action=click&pgtype=Article"
+    ],
+    "https://www.infowars.com/": [
+        "https://www.infowars.com/"
+    ]
+}

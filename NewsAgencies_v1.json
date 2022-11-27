@@ -3,7 +3,7 @@
         "https://tampa.cbslocal.com/",
         "https://www.nbcwashington.com/",
         "https://lighthome.us/",
-        "https://www.latimes.com/california",
+        "https://www.latimes.com/",
         "https://www.nbclosangeles.com/",
         "https://www.nbcnewyork.com/",
         "https://whdh.com/",
@@ -12,7 +12,7 @@
         "https://www.texasobserver.org/",
         "https://www.breitbart.com/",
         "https://www.minnpost.com/",
-        "https://abc7news.com/tag/music/",
+        "https://abc7news.com/",
         "https://www.huffpost.com/",
         "https://www.nbcchicago.com/",
         "https://gothamist.com/",
@@ -74,6 +74,7 @@
         "https://www.nytimes.com/",
         "https://www.boston.com/",
         "https://www.phillyvoice.com/",
-        "https://nypost.com/"
+        "https://nypost.com/",
+        "https://www.infowars.com/"
     ]
 }
