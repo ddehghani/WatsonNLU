@@ -1,0 +1,6 @@
+aiohttp
+asyncio
+bs4
+ibm_watson
+scikit-learn
+pandas
