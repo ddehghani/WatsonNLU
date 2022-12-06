@@ -1,37 +1,2884 @@
 {
-    "https://www.nbcnews.com/": {
-        "sadness": 0.27787214285714285,
-        "joy": 0.2449707142857143,
-        "fear": 0.10022699999999998,
-        "disgust": 0.11256185714285714,
-        "anger": 0.07227428571428571
+    "https://www.reuters.com/world/us/": {
+        "Disinformation MachinePresident Nayib Bukele": {
+            "relevance": 0.951106,
+            "emotion": {
+                "sadness": 0.11460899999999997,
+                "joy": 0.221943,
+                "fear": 0.08689800000000002,
+                "disgust": 0.033609,
+                "anger": 0.025583000000000005
+            },
+            "count": 11
+        },
+        "engine": {
+            "relevance": 0.697425,
+            "emotion": {
+                "sadness": 0.176382,
+                "joy": 0.009136000000000003,
+                "fear": 0.15838299999999997,
+                "disgust": 0.091713,
+                "anger": 0.16356100000000004
+            },
+            "count": 11
+        },
+        "Virtual MayhemOnline exchanges": {
+            "relevance": 0.983059,
+            "emotion": {
+                "sadness": 0.576927,
+                "joy": 0.082043,
+                "fear": 0.240073,
+                "disgust": 0.003423,
+                "anger": 0.03112
+            },
+            "count": 1
+        },
+        "Part": {
+            "relevance": 0.78292,
+            "emotion": {
+                "sadness": 0.576927,
+                "joy": 0.082043,
+                "fear": 0.240073,
+                "disgust": 0.003423,
+                "anger": 0.03112
+            },
+            "count": 1
+        },
+        "Binance CEO": {
+            "relevance": 0.747406,
+            "emotion": {
+                "sadness": 0.197139,
+                "joy": 0.07068,
+                "fear": 0.343832,
+                "disgust": 0.024557,
+                "anger": 0.103122
+            },
+            "count": 2
+        },
+        "Changpeng Zhao": {
+            "relevance": 0.643267,
+            "emotion": {
+                "sadness": 0.142198,
+                "joy": 0.446909,
+                "fear": 0.048419,
+                "disgust": 0.020982,
+                "anger": 0.075885
+            },
+            "count": 3
+        },
+        "self-taught": {
+            "relevance": 0.985833,
+            "emotion": {
+                "sadness": 0.106103,
+                "joy": 0.060349,
+                "fear": 0.191186,
+                "disgust": 0.031073,
+                "anger": 0.055957
+            },
+            "count": 1
+        },
+        "human suffering": {
+            "relevance": 0.838173,
+            "emotion": {
+                "sadness": 0.106103,
+                "joy": 0.060349,
+                "fear": 0.191186,
+                "disgust": 0.031073,
+                "anger": 0.055957
+            },
+            "count": 1
+        },
+        "Black man": {
+            "relevance": 0.775239,
+            "emotion": {
+                "sadness": 0.109966,
+                "joy": 0.011972,
+                "fear": 0.482917,
+                "disgust": 0.325518,
+                "anger": 0.082956
+            },
+            "count": 1
+        },
+        "police union": {
+            "relevance": 0.636684,
+            "emotion": {
+                "sadness": 0.109966,
+                "joy": 0.011972,
+                "fear": 0.482917,
+                "disgust": 0.325518,
+                "anger": 0.082956
+            },
+            "count": 1
+        },
+        "nabbed.Gholamreza Hosseini": {
+            "relevance": 0.626454,
+            "emotion": {
+                "sadness": 0.135243,
+                "joy": 0.047034,
+                "fear": 0.184399,
+                "disgust": 0.018539,
+                "anger": 0.136373
+            },
+            "count": 1
+        },
+        "Iranian former CIA informants": {
+            "relevance": 0.579873,
+            "emotion": {
+                "sadness": 0.066772,
+                "joy": 0.113046,
+                "fear": 0.206472,
+                "disgust": 0.033879,
+                "anger": 0.039353
+            },
+            "count": 1
+        },
+        "liability releases": {
+            "relevance": 0.662016,
+            "emotion": {
+                "sadness": 0.420507,
+                "joy": 0.032293,
+                "fear": 0.047287,
+                "disgust": 0.08119,
+                "anger": 0.093647
+            },
+            "count": 12
+        },
+        "bankruptcy court": {
+            "relevance": 0.646456,
+            "emotion": {
+                "sadness": 0.560102,
+                "joy": 0.056879,
+                "fear": 0.054034,
+                "disgust": 0.032492,
+                "anger": 0.055177
+            },
+            "count": 2
+        },
+        "modular military fortifications": {
+            "relevance": 0.597425,
+            "emotion": {
+                "sadness": 0.049053,
+                "joy": 0.092589,
+                "fear": 0.173422,
+                "disgust": 0.007578,
+                "anger": 0.12805
+            },
+            "count": 1
+        },
+        "NATO\u2019s defence efforts": {
+            "relevance": 0.564157,
+            "emotion": {
+                "sadness": 0.092018,
+                "joy": 0.020859,
+                "fear": 0.204976,
+                "disgust": 0.054285,
+                "anger": 0.138106
+            },
+            "count": 1
+        },
+        "Ballad of Howard": {
+            "relevance": 0.996934,
+            "emotion": {
+                "sadness": 0.441468,
+                "joy": 0.028075,
+                "fear": 0.328125,
+                "disgust": 0.032083,
+                "anger": 0.010083
+            },
+            "count": 1
+        },
+        "couple": {
+            "relevance": 0.618514,
+            "emotion": {
+                "sadness": 0.441468,
+                "joy": 0.028075,
+                "fear": 0.328125,
+                "disgust": 0.032083,
+                "anger": 0.010083
+            },
+            "count": 1
+        },
+        "Dangerous MissionChina": {
+            "relevance": 0.945627,
+            "emotion": {
+                "sadness": 0.112402,
+                "joy": 0.331323,
+                "fear": 0.157667,
+                "disgust": 0.065392,
+                "anger": 0.016629
+            },
+            "count": 1
+        },
+        "Roman Catholic nuns": {
+            "relevance": 0.71819,
+            "emotion": {
+                "sadness": 0.112402,
+                "joy": 0.331323,
+                "fear": 0.157667,
+                "disgust": 0.065392,
+                "anger": 0.016629
+            },
+            "count": 1
+        },
+        "Health official": {
+            "relevance": 0.968407,
+            "emotion": {
+                "sadness": 0.413846,
+                "joy": 0.065266,
+                "fear": 0.017872,
+                "disgust": 0.191864,
+                "anger": 0.010159
+            },
+            "count": 1
+        },
+        "sexual slavery": {
+            "relevance": 0.918341,
+            "emotion": {
+                "sadness": 0.413846,
+                "joy": 0.065266,
+                "fear": 0.017872,
+                "disgust": 0.191864,
+                "anger": 0.010159
+            },
+            "count": 1
+        },
+        "story of Ding": {
+            "relevance": 0.691855,
+            "emotion": {
+                "sadness": 0.472421,
+                "joy": 0.050201,
+                "fear": 0.060443,
+                "disgust": 0.052022,
+                "anger": 0.05015
+            },
+            "count": 2
+        },
+        "human rights lawyer": {
+            "relevance": 0.646748,
+            "emotion": {
+                "sadness": 0.309124,
+                "joy": 0.06456,
+                "fear": 0.050126,
+                "disgust": 0.047797,
+                "anger": 0.075157
+            },
+            "count": 2
+        },
+        "Objections OverruledPart": {
+            "relevance": 0.996013,
+            "emotion": {
+                "sadness": 0.297929,
+                "joy": 0.04017,
+                "fear": 0.05404,
+                "disgust": 0.098541,
+                "anger": 0.083096
+            },
+            "count": 1
+        },
+        "U.S. judges": {
+            "relevance": 0.716736,
+            "emotion": {
+                "sadness": 0.297929,
+                "joy": 0.04017,
+                "fear": 0.05404,
+                "disgust": 0.098541,
+                "anger": 0.083096
+            },
+            "count": 1
+        },
+        "Russian base": {
+            "relevance": 0.673561,
+            "emotion": {
+                "sadness": 0.212508,
+                "joy": 0.036961,
+                "fear": 0.149096,
+                "disgust": 0.025877,
+                "anger": 0.078742
+            },
+            "count": 1
+        },
+        "Ukrainian town of Balakliia": {
+            "relevance": 0.614865,
+            "emotion": {
+                "sadness": 0.312984,
+                "joy": 0.043364,
+                "fear": 0.078156,
+                "disgust": 0.050111,
+                "anger": 0.080947
+            },
+            "count": 3
+        },
+        "MessageUK leader Boris Johnson": {
+            "relevance": 0.984295,
+            "emotion": {
+                "sadness": 0.080857,
+                "joy": 0.098625,
+                "fear": 0.153376,
+                "disgust": 0.465708,
+                "anger": 0.067769
+            },
+            "count": 1
+        },
+        "scientists": {
+            "relevance": 0.601989,
+            "emotion": {
+                "sadness": 0.080857,
+                "joy": 0.098625,
+                "fear": 0.153376,
+                "disgust": 0.465708,
+                "anger": 0.067769
+            },
+            "count": 1
+        },
+        "U.S. campus power plants": {
+            "relevance": 0.701453,
+            "emotion": {
+                "sadness": 0.198635,
+                "joy": 0.017726,
+                "fear": 0.176231,
+                "disgust": 0.048847,
+                "anger": 0.274938
+            },
+            "count": 1
+        },
+        "school\u2019s power plant": {
+            "relevance": 0.62354,
+            "emotion": {
+                "sadness": 0.145128,
+                "joy": 0.423255,
+                "fear": 0.173496,
+                "disgust": 0.047526,
+                "anger": 0.01219
+            },
+            "count": 1
+        },
+        "Reuters reporters": {
+            "relevance": 0.992406,
+            "emotion": {
+                "sadness": 0.15483,
+                "joy": 0.053723,
+                "fear": 0.057269,
+                "disgust": 0.219782,
+                "anger": 0.264243
+            },
+            "count": 1
+        },
+        "months": {
+            "relevance": 0.636172,
+            "emotion": {
+                "sadness": 0.15483,
+                "joy": 0.053723,
+                "fear": 0.057269,
+                "disgust": 0.219782,
+                "anger": 0.264243
+            },
+            "count": 1
+        },
+        "Mosquitos": {
+            "relevance": 0.726,
+            "emotion": {
+                "sadness": 0.273547,
+                "joy": 0.006224,
+                "fear": 0.071759,
+                "disgust": 0.037445,
+                "anger": 0.095442
+            },
+            "count": 1
+        },
+        "Vigilantes": {
+            "relevance": 0.669239,
+            "emotion": {
+                "sadness": 0.273547,
+                "joy": 0.006224,
+                "fear": 0.071759,
+                "disgust": 0.037445,
+                "anger": 0.095442
+            },
+            "count": 1
+        },
+        "Cloudspotters\u2019 Guide": {
+            "relevance": 0.976259,
+            "emotion": {
+                "sadness": 0.118918,
+                "joy": 0.701402,
+                "fear": 0.072309,
+                "disgust": 0.009476,
+                "anger": 0.00597
+            },
+            "count": 1
+        },
+        "idyllic island": {
+            "relevance": 0.611945,
+            "emotion": {
+                "sadness": 0.118918,
+                "joy": 0.701402,
+                "fear": 0.072309,
+                "disgust": 0.009476,
+                "anger": 0.00597
+            },
+            "count": 1
+        },
+        "poisoning rates": {
+            "relevance": 0.722563,
+            "emotion": {
+                "sadness": 0.153879,
+                "joy": 0.075218,
+                "fear": 0.101155,
+                "disgust": 0.097965,
+                "anger": 0.024862
+            },
+            "count": 1
+        },
+        "ChartsA Reuters analysis of blood lead-test results": {
+            "relevance": 0.586627,
+            "emotion": {
+                "sadness": 0.153879,
+                "joy": 0.075218,
+                "fear": 0.101155,
+                "disgust": 0.097965,
+                "anger": 0.024862
+            },
+            "count": 1
+        },
+        "Money GamePart": {
+            "relevance": 0.981725,
+            "emotion": {
+                "sadness": 0.359444,
+                "joy": 0.287481,
+                "fear": 0.033212,
+                "disgust": 0.068102,
+                "anger": 0.066908
+            },
+            "count": 1
+        },
+        "super-rich Middle East owners": {
+            "relevance": 0.847467,
+            "emotion": {
+                "sadness": 0.359444,
+                "joy": 0.287481,
+                "fear": 0.033212,
+                "disgust": 0.068102,
+                "anger": 0.066908
+            },
+            "count": 1
+        },
+        "Regeni CaseItalian student Giulio Regeni": {
+            "relevance": 0.999966,
+            "emotion": {
+                "sadness": 0.285548,
+                "joy": 0.019823,
+                "fear": 0.044355,
+                "disgust": 0.030262,
+                "anger": 0.203741
+            },
+            "count": 1
+        },
+        "night": {
+            "relevance": 0.544527,
+            "emotion": {
+                "sadness": 0.285548,
+                "joy": 0.019823,
+                "fear": 0.044355,
+                "disgust": 0.030262,
+                "anger": 0.203741
+            },
+            "count": 1
+        },
+        "Pulitzer Prize": {
+            "relevance": 0.938999,
+            "emotion": {
+                "sadness": 0.117049,
+                "joy": 0.033488,
+                "fear": 0.075106,
+                "disgust": 0.082535,
+                "anger": 0.092749
+            },
+            "count": 1
+        },
+        "Duterte\u2019s War": {
+            "relevance": 0.733034,
+            "emotion": {
+                "sadness": 0.117049,
+                "joy": 0.033488,
+                "fear": 0.075106,
+                "disgust": 0.082535,
+                "anger": 0.092749
+            },
+            "count": 1
+        }
     },
-    "https://www.usatoday.com/": {
-        "sadness": 0.287615,
-        "joy": 0.16620183333333335,
-        "fear": 0.08096766666666666,
-        "disgust": 0.14064416666666665,
-        "anger": 0.08751316666666666
+    "https://abcnews.go.com/politics": {
+        "Democratic incumbent Sen. Raphael Warnock": {
+            "relevance": 0.714738,
+            "emotion": {
+                "sadness": 0.274577,
+                "joy": 0.229425,
+                "fear": 0.052041,
+                "disgust": 0.024479,
+                "anger": 0.011647
+            },
+            "count": 1
+        },
+        "last day of early voting": {
+            "relevance": 0.664175,
+            "emotion": {
+                "sadness": 0.366074,
+                "joy": 0.220972,
+                "fear": 0.028297,
+                "disgust": 0.04735,
+                "anger": 0.051991
+            },
+            "count": 2
+        },
+        "grant workers": {
+            "relevance": 0.64394,
+            "emotion": {
+                "sadness": 0.348722,
+                "joy": 0.002909,
+                "fear": 0.030691,
+                "disgust": 0.14625,
+                "anger": 0.161158
+            },
+            "count": 1
+        },
+        "first vote": {
+            "relevance": 0.612257,
+            "emotion": {
+                "sadness": 0.348722,
+                "joy": 0.002909,
+                "fear": 0.030691,
+                "disgust": 0.14625,
+                "anger": 0.161158
+            },
+            "count": 1
+        },
+        "ABC News": {
+            "relevance": 0.590694,
+            "emotion": {
+                "sadness": 0.090829,
+                "joy": 0.39195,
+                "fear": 0.049905,
+                "disgust": 0.123937,
+                "anger": 0.036667
+            },
+            "count": 1
+        },
+        "Democratic National Committee": {
+            "relevance": 0.568593,
+            "emotion": {
+                "sadness": 0.106966,
+                "joy": 0.266483,
+                "fear": 0.017458,
+                "disgust": 0.066602,
+                "anger": 0.038897
+            },
+            "count": 1
+        },
+        "personal information": {
+            "relevance": 0.760892,
+            "emotion": {
+                "sadness": 0.59768,
+                "joy": 0.05167,
+                "fear": 0.084891,
+                "disgust": 0.095962,
+                "anger": 0.089125
+            },
+            "count": 1
+        },
+        "Human Rights": {
+            "relevance": 0.671705,
+            "emotion": {
+                "sadness": 0.219861,
+                "joy": 0.018246,
+                "fear": 0.055043,
+                "disgust": 0.032348,
+                "anger": 0.122672
+            },
+            "count": 1
+        },
+        "Idaho students": {
+            "relevance": 0.720525,
+            "emotion": {
+                "sadness": 0.208159,
+                "joy": 0.09456,
+                "fear": 0.075029,
+                "disgust": 0.054448,
+                "anger": 0.040333
+            },
+            "count": 2
+        },
+        "University of Idaho students Ethan Chapin": {
+            "relevance": 0.633435,
+            "emotion": {
+                "sadness": 0.148271,
+                "joy": 0.227034,
+                "fear": 0.067135,
+                "disgust": 0.033566,
+                "anger": 0.019969
+            },
+            "count": 1
+        },
+        "same-sex couples.The Supreme Court": {
+            "relevance": 0.634703,
+            "emotion": {
+                "sadness": 0.252022,
+                "joy": 0.043275,
+                "fear": 0.021862,
+                "disgust": 0.131396,
+                "anger": 0.063496
+            },
+            "count": 1
+        },
+        "gay marriage": {
+            "relevance": 0.588316,
+            "emotion": {
+                "sadness": 0.163967,
+                "joy": 0.071015,
+                "fear": 0.017881,
+                "disgust": 0.132153,
+                "anger": 0.107245
+            },
+            "count": 2
+        },
+        "Georgia's Senate runoff": {
+            "relevance": 0.600298,
+            "emotion": {
+                "sadness": 0.838405,
+                "joy": 0.057868,
+                "fear": 0.036469,
+                "disgust": 0.024909,
+                "anger": 0.054152
+            },
+            "count": 1
+        },
+        "active campaign presence": {
+            "relevance": 0.579628,
+            "emotion": {
+                "sadness": 0.607333,
+                "joy": 0.017823,
+                "fear": 0.078367,
+                "disgust": 0.109754,
+                "anger": 0.037361
+            },
+            "count": 1
+        },
+        "Georgia Democratic Sen. Raphael Warnock": {
+            "relevance": 0.796119,
+            "emotion": {
+                "sadness": 0.22521,
+                "joy": 0.1419,
+                "fear": 0.019914,
+                "disgust": 0.164441,
+                "anger": 0.086885
+            },
+            "count": 1
+        },
+        "fourth election": {
+            "relevance": 0.575389,
+            "emotion": {
+                "sadness": 0.22521,
+                "joy": 0.1419,
+                "fear": 0.019914,
+                "disgust": 0.164441,
+                "anger": 0.086885
+            },
+            "count": 1
+        },
+        "Kennedy Center Honorson Sunday evening": {
+            "relevance": 0.802512,
+            "emotion": {
+                "sadness": 0.091298,
+                "joy": 0.391628,
+                "fear": 0.013137,
+                "disgust": 0.007783,
+                "anger": 0.02198
+            },
+            "count": 1
+        },
+        "John F. Kennedy Center": {
+            "relevance": 0.653104,
+            "emotion": {
+                "sadness": 0.087819,
+                "joy": 0.563845,
+                "fear": 0.015311,
+                "disgust": 0.047938,
+                "anger": 0.038235
+            },
+            "count": 1
+        },
+        "Republican Herschel Walker": {
+            "relevance": 0.717408,
+            "emotion": {
+                "sadness": 0.198072,
+                "joy": 0.252134,
+                "fear": 0.008587,
+                "disgust": 0.130225,
+                "anger": 0.044817
+            },
+            "count": 1
+        },
+        "University of Georgia": {
+            "relevance": 0.61278,
+            "emotion": {
+                "sadness": 0.190968,
+                "joy": 0.265033,
+                "fear": 0.01736,
+                "disgust": 0.089882,
+                "anger": 0.040782
+            },
+            "count": 2
+        },
+        "Trump administration": {
+            "relevance": 0.575387,
+            "emotion": {
+                "sadness": 0.084596,
+                "joy": 0.011123,
+                "fear": 0.033098,
+                "disgust": 0.065038,
+                "anger": 0.188221
+            },
+            "count": 1
+        },
+        "House minority leader": {
+            "relevance": 0.565325,
+            "emotion": {
+                "sadness": 0.103851,
+                "joy": 0.202485,
+                "fear": 0.022451,
+                "disgust": 0.04188,
+                "anger": 0.216617
+            },
+            "count": 1
+        },
+        "Dave JoyceRepublican Governance Group Chair": {
+            "relevance": 0.863962,
+            "emotion": {
+                "sadness": 0.089025,
+                "joy": 0.739932,
+                "fear": 0.045555,
+                "disgust": 0.026925,
+                "anger": 0.10191
+            },
+            "count": 1
+        },
+        "Hakeem JeffriesIncoming House Democratic Leader": {
+            "relevance": 0.705269,
+            "emotion": {
+                "sadness": 0.205454,
+                "joy": 0.236218,
+                "fear": 0.045695,
+                "disgust": 0.07488,
+                "anger": 0.029308
+            },
+            "count": 1
+        },
+        "former President Donald Trump": {
+            "relevance": 0.689476,
+            "emotion": {
+                "sadness": 0.26397,
+                "joy": 0.026635,
+                "fear": 0.013362,
+                "disgust": 0.191201,
+                "anger": 0.107614
+            },
+            "count": 1
+        },
+        "New York.New York Daily News": {
+            "relevance": 0.685868,
+            "emotion": {
+                "sadness": 0.319429,
+                "joy": 0.019601,
+                "fear": 0.02239,
+                "disgust": 0.133641,
+                "anger": 0.055163
+            },
+            "count": 1
+        },
+        "sad news": {
+            "relevance": 0.948103,
+            "emotion": {
+                "sadness": 0.651719,
+                "joy": 0.117529,
+                "fear": 0.037727,
+                "disgust": 0.007106,
+                "anger": 0.007606
+            },
+            "count": 2
+        },
+        "actressKirstie Alley": {
+            "relevance": 0.730285,
+            "emotion": {
+                "sadness": 0.908596,
+                "joy": 0.05789,
+                "fear": 0.014103,
+                "disgust": 0.014375,
+                "anger": 0.014059
+            },
+            "count": 1
+        },
+        "Justice Neil Gorsuch": {
+            "relevance": 0.658482,
+            "emotion": {
+                "sadness": 0.11932,
+                "joy": 0.168326,
+                "fear": 0.023676,
+                "disgust": 0.076728,
+                "anger": 0.095006
+            },
+            "count": 2
+        },
+        "wedding website": {
+            "relevance": 0.60281,
+            "emotion": {
+                "sadness": 0.120889,
+                "joy": 0.104841,
+                "fear": 0.039495,
+                "disgust": 0.056782,
+                "anger": 0.065777
+            },
+            "count": 2
+        },
+        "known antisemite": {
+            "relevance": 0.59163,
+            "emotion": {
+                "sadness": 0.442046,
+                "joy": 0.214698,
+                "fear": 0.023419,
+                "disgust": 0.177583,
+                "anger": 0.044547
+            },
+            "count": 1
+        },
+        "chair of the Republican Governance Group": {
+            "relevance": 0.563688,
+            "emotion": {
+                "sadness": 0.196849,
+                "joy": 0.352953,
+                "fear": 0.028465,
+                "disgust": 0.042537,
+                "anger": 0.039433
+            },
+            "count": 2
+        },
+        "Prince William": {
+            "relevance": 0.765881,
+            "emotion": {
+                "sadness": 0.107779,
+                "joy": 0.206409,
+                "fear": 0.057305,
+                "disgust": 0.067358,
+                "anger": 0.064633
+            },
+            "count": 7
+        },
+        "President Joe Biden": {
+            "relevance": 0.678067,
+            "emotion": {
+                "sadness": 0.1808022777777778,
+                "joy": 0.08023933333333332,
+                "fear": 0.048945944444444445,
+                "disgust": 0.078551,
+                "anger": 0.12138616666666667
+            },
+            "count": 5
+        },
+        "final Senate battle of the midterm election": {
+            "relevance": 0.631815,
+            "emotion": {
+                "sadness": 0.222709,
+                "joy": 0.044061,
+                "fear": 0.052224,
+                "disgust": 0.108438,
+                "anger": 0.112082
+            },
+            "count": 1
+        },
+        "Democratic incumbent Raphael Warnock": {
+            "relevance": 0.629452,
+            "emotion": {
+                "sadness": 0.222709,
+                "joy": 0.044061,
+                "fear": 0.052224,
+                "disgust": 0.108438,
+                "anger": 0.112082
+            },
+            "count": 1
+        },
+        "Early turnout": {
+            "relevance": 0.639196,
+            "emotion": {
+                "sadness": 0.202816,
+                "joy": 0.263339,
+                "fear": 0.043363,
+                "disgust": 0.060423,
+                "anger": 0.066831
+            },
+            "count": 2
+        },
+        "total number of early votes": {
+            "relevance": 0.639163,
+            "emotion": {
+                "sadness": 0.464971,
+                "joy": 0.137927,
+                "fear": 0.017406,
+                "disgust": 0.104463,
+                "anger": 0.148205
+            },
+            "count": 1
+        },
+        "Walker face": {
+            "relevance": 0.673179,
+            "emotion": {
+                "sadness": 0.214466,
+                "joy": 0.016958,
+                "fear": 0.033926,
+                "disgust": 0.228941,
+                "anger": 0.083877
+            },
+            "count": 1
+        },
+        "LIVE UPDATESGeorgia Senate runoff": {
+            "relevance": 0.641158,
+            "emotion": {
+                "sadness": 0.214466,
+                "joy": 0.016958,
+                "fear": 0.033926,
+                "disgust": 0.228941,
+                "anger": 0.083877
+            },
+            "count": 1
+        },
+        "Iowa caucuses": {
+            "relevance": 0.632035,
+            "emotion": {
+                "sadness": 0.112268,
+                "joy": 0.142143,
+                "fear": 0.016304,
+                "disgust": 0.197596,
+                "anger": 0.037578
+            },
+            "count": 3
+        },
+        "favor of President Joe Biden": {
+            "relevance": 0.613507,
+            "emotion": {
+                "sadness": 0.126067,
+                "joy": 0.230829,
+                "fear": 0.008916,
+                "disgust": 0.16597,
+                "anger": 0.024768
+            },
+            "count": 1
+        },
+        "president added.Biden's post": {
+            "relevance": 0.653785,
+            "emotion": {
+                "sadness": 0.096364,
+                "joy": 0.056355,
+                "fear": 0.029593,
+                "disgust": 0.077099,
+                "anger": 0.118784
+            },
+            "count": 1
+        },
+        "Democratic Sen. Raphael Warnock": {
+            "relevance": 0.740922,
+            "emotion": {
+                "sadness": 0.139275,
+                "joy": 0.17212,
+                "fear": 0.047895,
+                "disgust": 0.190129,
+                "anger": 0.052964
+            },
+            "count": 1
+        },
+        "former President Barack Obama": {
+            "relevance": 0.68272,
+            "emotion": {
+                "sadness": 0.135971,
+                "joy": 0.138103,
+                "fear": 0.051773,
+                "disgust": 0.132309,
+                "anger": 0.041621
+            },
+            "count": 2
+        },
+        "canvassing.Secretary of State Katie Hobbs": {
+            "relevance": 0.622669,
+            "emotion": {
+                "sadness": 0.149063,
+                "joy": 0.238709,
+                "fear": 0.029544,
+                "disgust": 0.045103,
+                "anger": 0.039577
+            },
+            "count": 1
+        },
+        "state's election results": {
+            "relevance": 0.621872,
+            "emotion": {
+                "sadness": 0.149063,
+                "joy": 0.238709,
+                "fear": 0.029544,
+                "disgust": 0.045103,
+                "anger": 0.039577
+            },
+            "count": 1
+        },
+        "Moore County": {
+            "relevance": 0.674647,
+            "emotion": {
+                "sadness": 0.154687,
+                "joy": 0.059036,
+                "fear": 0.070383,
+                "disgust": 0.173247,
+                "anger": 0.046045
+            },
+            "count": 3
+        },
+        "key power substations": {
+            "relevance": 0.638086,
+            "emotion": {
+                "sadness": 0.306298,
+                "joy": 0.049716,
+                "fear": 0.049147,
+                "disgust": 0.256749,
+                "anger": 0.045211
+            },
+            "count": 1
+        },
+        "U.S. Marines": {
+            "relevance": 0.842867,
+            "emotion": {
+                "sadness": 0.210343,
+                "joy": 0.25876,
+                "fear": 0.078372,
+                "disgust": 0.015018,
+                "anger": 0.028715
+            },
+            "count": 3
+        },
+        "Marine Corps": {
+            "relevance": 0.751988,
+            "emotion": {
+                "sadness": 0.172553,
+                "joy": 0.341326,
+                "fear": 0.078163,
+                "disgust": 0.015789,
+                "anger": 0.048889
+            },
+            "count": 4
+        },
+        "nationwide rail strike": {
+            "relevance": 0.649349,
+            "emotion": {
+                "sadness": 0.441922,
+                "joy": 0.002391,
+                "fear": 0.058869,
+                "disgust": 0.074726,
+                "anger": 0.153292
+            },
+            "count": 1
+        },
+        "former President Donald Trump's actions": {
+            "relevance": 0.654752,
+            "emotion": {
+                "sadness": 0.104443,
+                "joy": 0.006365,
+                "fear": 0.032379,
+                "disgust": 0.213485,
+                "anger": 0.234932
+            },
+            "count": 1
+        },
+        "new presidential election": {
+            "relevance": 0.583349,
+            "emotion": {
+                "sadness": 0.104443,
+                "joy": 0.006365,
+                "fear": 0.032379,
+                "disgust": 0.213485,
+                "anger": 0.234932
+            },
+            "count": 1
+        },
+        "Paul Pelosi": {
+            "relevance": 0.788609,
+            "emotion": {
+                "sadness": 0.260972,
+                "joy": 0.061632,
+                "fear": 0.052264,
+                "disgust": 0.142064,
+                "anger": 0.055849
+            },
+            "count": 4
+        },
+        "high-profile Kennedy Center Honors": {
+            "relevance": 0.712174,
+            "emotion": {
+                "sadness": 0.125596,
+                "joy": 0.117178,
+                "fear": 0.032119,
+                "disgust": 0.13552,
+                "anger": 0.049174
+            },
+            "count": 1
+        },
+        "Trump's comment": {
+            "relevance": 0.606287,
+            "emotion": {
+                "sadness": 0.122784,
+                "joy": 0.010954,
+                "fear": 0.024594,
+                "disgust": 0.167443,
+                "anger": 0.246287
+            },
+            "count": 4
+        },
+        "former president": {
+            "relevance": 0.596395,
+            "emotion": {
+                "sadness": 0.226925,
+                "joy": 0.085457,
+                "fear": 0.043131,
+                "disgust": 0.132732,
+                "anger": 0.121694
+            },
+            "count": 5
+        },
+        "Xbox Game Pass Ultimate": {
+            "relevance": 0.634246,
+            "emotion": {
+                "sadness": 0.174398,
+                "joy": 0.457093,
+                "fear": 0.004912,
+                "disgust": 0.013623,
+                "anger": 0.041881
+            },
+            "count": 1
+        },
+        "lab-created diamonds": {
+            "relevance": 0.608655,
+            "emotion": {
+                "sadness": 0.044099,
+                "joy": 0.730654,
+                "fear": 0.046315,
+                "disgust": 0.009686,
+                "anger": 0.031545
+            },
+            "count": 1
+        },
+        "viaemail atABCNewsLiveStoryIdeas": {
+            "relevance": 0.838077,
+            "emotion": {
+                "sadness": 0.073518,
+                "joy": 0.428696,
+                "fear": 0.024966,
+                "disgust": 0.034664,
+                "anger": 0.015807
+            },
+            "count": 1
+        },
+        "ABC News program": {
+            "relevance": 0.789597,
+            "emotion": {
+                "sadness": 0.073518,
+                "joy": 0.428696,
+                "fear": 0.024966,
+                "disgust": 0.034664,
+                "anger": 0.015807
+            },
+            "count": 1
+        }
+    },
+    "https://www.washingtonpost.com/politics/": {
+        "hard-fought Senate runoff": {
+            "relevance": 0.568687,
+            "emotion": {
+                "sadness": 0.218325,
+                "joy": 0.030529,
+                "fear": 0.055627,
+                "disgust": 0.116305,
+                "anger": 0.171258
+            },
+            "count": 1
+        },
+        "Georgia voters": {
+            "relevance": 0.5673,
+            "emotion": {
+                "sadness": 0.22885666666666668,
+                "joy": 0.06378199999999999,
+                "fear": 0.07090533333333333,
+                "disgust": 0.0953,
+                "anger": 0.11837866666666667
+            },
+            "count": 2
+        },
+        "vice president": {
+            "relevance": 0.629783,
+            "emotion": {
+                "sadness": 0.20445333333333335,
+                "joy": 0.037967,
+                "fear": 0.006417666666666666,
+                "disgust": 0.18022633333333335,
+                "anger": 0.093177
+            },
+            "count": 2
+        },
+        "Latest fromEugene ScottPoliticsFamily of Jan.": {
+            "relevance": 0.617304,
+            "emotion": {
+                "sadness": 0.228895,
+                "joy": 0.031403,
+                "fear": 0.006155,
+                "disgust": 0.159839,
+                "anger": 0.076579
+            },
+            "count": 1
+        },
+        "Public SafetyHuge fire": {
+            "relevance": 0.642908,
+            "count": 1
+        },
+        "football players": {
+            "relevance": 0.642486,
+            "emotion": {
+                "sadness": 0.896498,
+                "joy": 0.005912,
+                "fear": 0.025228,
+                "disgust": 0.112161,
+                "anger": 0.020981
+            },
+            "count": 2
+        },
+        "LawThe Supreme Court": {
+            "relevance": 0.713436,
+            "emotion": {
+                "sadness": 0.116961,
+                "joy": 0.21549,
+                "fear": 0.083512,
+                "disgust": 0.026398,
+                "anger": 0.056965
+            },
+            "count": 1
+        },
+        "LawSupreme Court": {
+            "relevance": 0.621337,
+            "emotion": {
+                "sadness": 0.239272,
+                "joy": 0.041197,
+                "fear": 0.021473,
+                "disgust": 0.133854,
+                "anger": 0.204633
+            },
+            "count": 5
+        },
+        "National SecurityProsecutors": {
+            "relevance": 0.626499,
+            "count": 1
+        },
+        "special master": {
+            "relevance": 0.606837,
+            "emotion": {
+                "sadness": 0.24884733333333334,
+                "joy": 0.023533,
+                "fear": 0.024091666666666667,
+                "disgust": 0.15809666666666666,
+                "anger": 0.158807
+            },
+            "count": 2
+        },
+        "President Biden": {
+            "relevance": 0.61976,
+            "emotion": {
+                "sadness": 0.372533,
+                "joy": 0.078187,
+                "fear": 0.054912,
+                "disgust": 0.12596,
+                "anger": 0.03855
+            },
+            "count": 2
+        },
+        "Jared Polis": {
+            "relevance": 0.604986,
+            "emotion": {
+                "sadness": 0.22394,
+                "joy": 0.160266,
+                "fear": 0.007038,
+                "disgust": 0.162126,
+                "anger": 0.026262
+            },
+            "count": 1
+        },
+        "distance of former president Donald Trump": {
+            "relevance": 0.752844,
+            "emotion": {
+                "sadness": 0.070843,
+                "joy": 0.113429,
+                "fear": 0.06848,
+                "disgust": 0.533249,
+                "anger": 0.073061
+            },
+            "count": 2
+        },
+        "YouGov poll": {
+            "relevance": 0.685841,
+            "emotion": {
+                "sadness": 0.138637,
+                "joy": 0.22027300000000002,
+                "fear": 0.280403,
+                "disgust": 0.026656,
+                "anger": 0.021402
+            },
+            "count": 2
+        },
+        "Arizona attorney general\u2019s office": {
+            "relevance": 0.651659,
+            "emotion": {
+                "sadness": 0.110956,
+                "joy": 0.05308733333333334,
+                "fear": 0.02258133333333333,
+                "disgust": 0.2577236666666667,
+                "anger": 0.11630066666666668
+            },
+            "count": 2
+        },
+        "Trump communicationsThe requests": {
+            "relevance": 0.625119,
+            "emotion": {
+                "sadness": 0.12424266666666667,
+                "joy": 0.019337333333333335,
+                "fear": 0.04628433333333334,
+                "disgust": 0.12165666666666668,
+                "anger": 0.157992
+            },
+            "count": 2
+        },
+        "Warnock urges Georgia voters": {
+            "relevance": 0.607528,
+            "emotion": {
+                "sadness": 0.204464,
+                "joy": 0.035138,
+                "fear": 0.09131,
+                "disgust": 0.065812,
+                "anger": 0.085109
+            },
+            "count": 4
+        },
+        "hour agoBulletKey update": {
+            "relevance": 0.576111,
+            "count": 3
+        },
+        "Georgia\u2019s Senate runoffUnofficial results": {
+            "relevance": 0.643225,
+            "emotion": {
+                "sadness": 0.13744233333333333,
+                "joy": 0.06835266666666667,
+                "fear": 0.04800033333333333,
+                "disgust": 0.15770033333333333,
+                "anger": 0.09163066666666668
+            },
+            "count": 2
+        },
+        "Prince William": {
+            "relevance": 0.601759,
+            "emotion": {
+                "sadness": 0.114565,
+                "joy": 0.084222,
+                "fear": 0.030572,
+                "disgust": 0.165742,
+                "anger": 0.083456
+            },
+            "count": 2
+        },
+        "Georgia Senate runoff": {
+            "relevance": 0.590413,
+            "emotion": {
+                "sadness": 0.18167566666666668,
+                "joy": 0.178275,
+                "fear": 0.04170033333333333,
+                "disgust": 0.09340966666666667,
+                "anger": 0.06736233333333334
+            },
+            "count": 2
+        },
+        "Biden calls": {
+            "relevance": 0.561083,
+            "emotion": {
+                "sadness": 0.134204,
+                "joy": 0.070715,
+                "fear": 0.055692,
+                "disgust": 0.407733,
+                "anger": 0.058545
+            },
+            "count": 2
+        },
+        "Latest fromAdriana UseroFact CheckerAnalysisFor Trump": {
+            "relevance": 0.629022,
+            "emotion": {
+                "sadness": 0.705093,
+                "joy": 0.039405,
+                "fear": 0.035275,
+                "disgust": 0.112736,
+                "anger": 0.051471
+            },
+            "count": 1
+        },
+        "Fact-checking Trump": {
+            "relevance": 0.61837,
+            "count": 1
+        },
+        "ina case": {
+            "relevance": 0.591076,
+            "emotion": {
+                "sadness": 0.19505399999999998,
+                "joy": 0.0705,
+                "fear": 0.032799,
+                "disgust": 0.172808,
+                "anger": 0.051214
+            },
+            "count": 2
+        },
+        "same-sex couple": {
+            "relevance": 0.590471,
+            "emotion": {
+                "sadness": 0.19505399999999998,
+                "joy": 0.0705,
+                "fear": 0.032799,
+                "disgust": 0.172808,
+                "anger": 0.051214
+            },
+            "count": 2
+        },
+        "Former president Donald Trump": {
+            "relevance": 0.711199,
+            "emotion": {
+                "sadness": 0.092624,
+                "joy": 0.013871,
+                "fear": 0.0225,
+                "disgust": 0.202074,
+                "anger": 0.133588
+            },
+            "count": 1
+        },
+        "Trump\u2019s statement": {
+            "relevance": 0.607652,
+            "emotion": {
+                "sadness": 0.092624,
+                "joy": 0.013871,
+                "fear": 0.0225,
+                "disgust": 0.202074,
+                "anger": 0.133588
+            },
+            "count": 1
+        },
+        "AnalysisThe Trump GOP\u2019s desertion": {
+            "relevance": 0.695254,
+            "count": 1
+        },
+        "most.ByAaron BlakeNovember": {
+            "relevance": 0.684219,
+            "emotion": {
+                "sadness": 0.658161,
+                "joy": 0.017131,
+                "fear": 0.036411,
+                "disgust": 0.233181,
+                "anger": 0.073565
+            },
+            "count": 1
+        },
+        "law license": {
+            "relevance": 0.620499,
+            "emotion": {
+                "sadness": 0.192032,
+                "joy": 0.040501,
+                "fear": 0.027394,
+                "disgust": 0.187696,
+                "anger": 0.165919
+            },
+            "count": 4
+        },
+        "presidential election": {
+            "relevance": 0.603458,
+            "emotion": {
+                "sadness": 0.124134,
+                "joy": 0.031509,
+                "fear": 0.011015,
+                "disgust": 0.213488,
+                "anger": 0.219976
+            },
+            "count": 1
+        },
+        "AmericaMilitary ballots": {
+            "relevance": 0.629826,
+            "emotion": {
+                "sadness": 0.102286,
+                "joy": 0.003459,
+                "fear": 0.019948,
+                "disgust": 0.218672,
+                "anger": 0.177892
+            },
+            "count": 1
+        },
+        "Rep. Kevin McCarthy": {
+            "relevance": 0.736171,
+            "emotion": {
+                "sadness": 0.124825,
+                "joy": 0.021868,
+                "fear": 0.050623,
+                "disgust": 0.117105,
+                "anger": 0.079609
+            },
+            "count": 2
+        },
+        "upcoming vote": {
+            "relevance": 0.718379,
+            "emotion": {
+                "sadness": 0.084515,
+                "joy": 0.391832,
+                "fear": 0.034731,
+                "disgust": 0.155241,
+                "anger": 0.020424
+            },
+            "count": 1
+        },
+        "regulatory scrutiny globally.ByCristiano LimaandAaron SchafferDecember": {
+            "relevance": 0.595099,
+            "emotion": {
+                "sadness": 0.147323,
+                "joy": 0.042997,
+                "fear": 0.035585,
+                "disgust": 0.19892,
+                "anger": 0.13236
+            },
+            "count": 1
+        },
+        "racismByOlivier KnoxandCaroline AndersDecember": {
+            "relevance": 0.574843,
+            "emotion": {
+                "sadness": 0.147323,
+                "joy": 0.042997,
+                "fear": 0.035585,
+                "disgust": 0.19892,
+                "anger": 0.13236
+            },
+            "count": 1
+        },
+        "powerful Georgia segregationist": {
+            "relevance": 0.640477,
+            "emotion": {
+                "sadness": 0.2307,
+                "joy": 0.119727,
+                "fear": 0.021681,
+                "disgust": 0.092181,
+                "anger": 0.037744
+            },
+            "count": 1
+        },
+        "product of an unusual generalelectionrunoff system": {
+            "relevance": 0.613329,
+            "emotion": {
+                "sadness": 0.2307,
+                "joy": 0.119727,
+                "fear": 0.021681,
+                "disgust": 0.092181,
+                "anger": 0.037744
+            },
+            "count": 1
+        },
+        "Fact CheckerAnalysisDissecting GOP claims": {
+            "relevance": 0.793538,
+            "count": 1
+        },
+        "Fact CheckerAnalysisNew Trump campaign": {
+            "relevance": 0.636811,
+            "count": 1
+        },
+        "sanctionedCochise County": {
+            "relevance": 0.630632,
+            "emotion": {
+                "sadness": 0.140346,
+                "joy": 0.074924,
+                "fear": 0.022304,
+                "disgust": 0.198849,
+                "anger": 0.088898
+            },
+            "count": 1
+        },
+        "online content": {
+            "relevance": 0.718263,
+            "emotion": {
+                "sadness": 0.589815,
+                "joy": 0.426537,
+                "fear": 0.031368,
+                "disgust": 0.004853,
+                "anger": 0.025977
+            },
+            "count": 1
+        },
+        "landmarksColor contrast ratio improvementsAria labels": {
+            "relevance": 0.625946,
+            "emotion": {
+                "sadness": 0.589815,
+                "joy": 0.426537,
+                "fear": 0.031368,
+                "disgust": 0.004853,
+                "anger": 0.025977
+            },
+            "count": 1
+        },
+        "much trouble Kevin McCarthy": {
+            "relevance": 0.68918,
+            "emotion": {
+                "sadness": 0.186926,
+                "joy": 0.01275,
+                "fear": 0.15027,
+                "disgust": 0.055005,
+                "anger": 0.040362
+            },
+            "count": 1
+        },
+        "January's House speaker election.December": {
+            "relevance": 0.679228,
+            "emotion": {
+                "sadness": 0.186926,
+                "joy": 0.01275,
+                "fear": 0.15027,
+                "disgust": 0.055005,
+                "anger": 0.040362
+            },
+            "count": 1
+        },
+        "Then-Rep. David Rivera": {
+            "relevance": 0.724385,
+            "emotion": {
+                "sadness": 0.611076,
+                "joy": 0.174946,
+                "fear": 0.031461,
+                "disgust": 0.030787,
+                "anger": 0.038978
+            },
+            "count": 1
+        },
+        "U.S. Attorney\u2019s office": {
+            "relevance": 0.642671,
+            "emotion": {
+                "sadness": 0.172504,
+                "joy": 0.004124,
+                "fear": 0.045691,
+                "disgust": 0.202898,
+                "anger": 0.078188
+            },
+            "count": 1
+        },
+        "court\u2019s latest examination": {
+            "relevance": 0.617557,
+            "emotion": {
+                "sadness": 0.533069,
+                "joy": 0.060948,
+                "fear": 0.075632,
+                "disgust": 0.119081,
+                "anger": 0.023843
+            },
+            "count": 1
+        },
+        "same-sex couples": {
+            "relevance": 0.614742,
+            "emotion": {
+                "sadness": 0.11021,
+                "joy": 0.0963,
+                "fear": 0.033652,
+                "disgust": 0.115392,
+                "anger": 0.088735
+            },
+            "count": 3
+        },
+        "House Oversight Committee finds.November": {
+            "relevance": 0.622713,
+            "emotion": {
+                "sadness": 0.141073,
+                "joy": 0.004973,
+                "fear": 0.023551,
+                "disgust": 0.204531,
+                "anger": 0.242093
+            },
+            "count": 1
+        },
+        "status of a final report": {
+            "relevance": 0.593585,
+            "emotion": {
+                "sadness": 0.647136,
+                "joy": 0.057003,
+                "fear": 0.055081,
+                "disgust": 0.064416,
+                "anger": 0.062738
+            },
+            "count": 1
+        },
+        "bipartisan groups of senators": {
+            "relevance": 0.707206,
+            "emotion": {
+                "sadness": 0.173423,
+                "joy": 0.006166,
+                "fear": 0.069845,
+                "disgust": 0.191343,
+                "anger": 0.206012
+            },
+            "count": 1
+        },
+        "same-sex marriageThey": {
+            "relevance": 0.654251,
+            "emotion": {
+                "sadness": 0.173423,
+                "joy": 0.006166,
+                "fear": 0.069845,
+                "disgust": 0.191343,
+                "anger": 0.206012
+            },
+            "count": 1
+        },
+        "former president Donald Trump": {
+            "relevance": 0.716693,
+            "emotion": {
+                "sadness": 0.105244,
+                "joy": 0.384695,
+                "fear": 0.068072,
+                "disgust": 0.101369,
+                "anger": 0.052368
+            },
+            "count": 2
+        },
+        "storyCommentGiftArticleShareThe Republican Party": {
+            "relevance": 0.583567,
+            "emotion": {
+                "sadness": 0.163541,
+                "joy": 0.435359,
+                "fear": 0.007681,
+                "disgust": 0.137417,
+                "anger": 0.01632
+            },
+            "count": 1
+        },
+        "separate 11th-hour immigration deals": {
+            "relevance": 0.630671,
+            "emotion": {
+                "sadness": 0.264508,
+                "joy": 0.014588,
+                "fear": 0.033013,
+                "disgust": 0.100458,
+                "anger": 0.08093
+            },
+            "count": 1
+        },
+        "United States": {
+            "relevance": 0.578606,
+            "emotion": {
+                "sadness": 0.211504,
+                "joy": 0.090044,
+                "fear": 0.070031,
+                "disgust": 0.051295,
+                "anger": 0.112407
+            },
+            "count": 6
+        },
+        "New Hampshire": {
+            "relevance": 0.622103,
+            "emotion": {
+                "sadness": 0.128497,
+                "joy": 0.118553,
+                "fear": 0.019979,
+                "disgust": 0.121394,
+                "anger": 0.085288
+            },
+            "count": 2
+        },
+        "presidential primaryThe state": {
+            "relevance": 0.605462,
+            "emotion": {
+                "sadness": 0.128497,
+                "joy": 0.118553,
+                "fear": 0.019979,
+                "disgust": 0.121394,
+                "anger": 0.085288
+            },
+            "count": 1
+        },
+        "Supreme Court": {
+            "relevance": 0.666667,
+            "emotion": {
+                "sadness": 0.266008,
+                "joy": 0.042327,
+                "fear": 0.045934,
+                "disgust": 0.07892,
+                "anger": 0.154218
+            },
+            "count": 9
+        },
+        "same-sex marriageConservative justices": {
+            "relevance": 0.550209,
+            "emotion": {
+                "sadness": 0.187852,
+                "joy": 0.030541,
+                "fear": 0.02002,
+                "disgust": 0.078799,
+                "anger": 0.201045
+            },
+            "count": 1
+        },
+        "young voters": {
+            "relevance": 0.690454,
+            "emotion": {
+                "sadness": 0.168091,
+                "joy": 0.039645,
+                "fear": 0.084929,
+                "disgust": 0.174225,
+                "anger": 0.034706
+            },
+            "count": 1
+        },
+        "Raphael Warnock": {
+            "relevance": 0.670786,
+            "emotion": {
+                "sadness": 0.18417,
+                "joy": 0.039173,
+                "fear": 0.06328,
+                "disgust": 0.178234,
+                "anger": 0.089664
+            },
+            "count": 1
+        },
+        "central toformer president Donald Trump": {
+            "relevance": 0.659061,
+            "emotion": {
+                "sadness": 0.172992,
+                "joy": 0.062175,
+                "fear": 0.020638,
+                "disgust": 0.153923,
+                "anger": 0.102302
+            },
+            "count": 2
+        },
+        "first known subpoenas": {
+            "relevance": 0.584581,
+            "emotion": {
+                "sadness": 0.210302,
+                "joy": 0.070226,
+                "fear": 0.014537,
+                "disgust": 0.272315,
+                "anger": 0.056702
+            },
+            "count": 2
+        },
+        "narrow Republican House majority": {
+            "relevance": 0.671953,
+            "emotion": {
+                "sadness": 0.124825,
+                "joy": 0.021868,
+                "fear": 0.050623,
+                "disgust": 0.117105,
+                "anger": 0.079609
+            },
+            "count": 1
+        },
+        "new congressional maps": {
+            "relevance": 0.692594,
+            "emotion": {
+                "sadness": 0.699208,
+                "joy": 0.024315,
+                "fear": 0.043283,
+                "disgust": 0.119638,
+                "anger": 0.106929
+            },
+            "count": 2
+        },
+        "new districts": {
+            "relevance": 0.6826,
+            "emotion": {
+                "sadness": 0.22754,
+                "joy": 0.230874,
+                "fear": 0.017985,
+                "disgust": 0.050683,
+                "anger": 0.026662
+            },
+            "count": 2
+        },
+        "National SecurityTrump Mar": {
+            "relevance": 0.643949,
+            "count": 1
+        },
+        "members of the millennial generation": {
+            "relevance": 0.670859,
+            "emotion": {
+                "sadness": 0.104463,
+                "joy": 0.514486,
+                "fear": 0.088336,
+                "disgust": 0.008186,
+                "anger": 0.017427
+            },
+            "count": 1
+        },
+        "much taller.First": {
+            "relevance": 0.632529,
+            "emotion": {
+                "sadness": 0.44408,
+                "joy": 0.076826,
+                "fear": 0.040978,
+                "disgust": 0.039044,
+                "anger": 0.030161
+            },
+            "count": 1
+        },
+        "Undocumented migrants": {
+            "relevance": 0.702781,
+            "emotion": {
+                "sadness": 0.253006,
+                "joy": 0.017435,
+                "fear": 0.075563,
+                "disgust": 0.03295,
+                "anger": 0.103236
+            },
+            "count": 1
+        },
+        "National SecuritySenate report": {
+            "relevance": 0.627105,
+            "count": 1
+        },
+        "Latest fromAnnabelle TimsitPoliticsEx-Rep. Rivera": {
+            "relevance": 0.603088,
+            "emotion": {
+                "sadness": 0.242295,
+                "joy": 0.003837,
+                "fear": 0.216271,
+                "disgust": 0.05068,
+                "anger": 0.113324
+            },
+            "count": 1
+        },
+        "tornado outbreak": {
+            "relevance": 0.597873,
+            "emotion": {
+                "sadness": 0.232636,
+                "joy": 0.037757,
+                "fear": 0.048451,
+                "disgust": 0.139335,
+                "anger": 0.021991
+            },
+            "count": 1
+        },
+        "storyCommentGiftArticleShareThe law enforcement officers": {
+            "relevance": 0.66991,
+            "emotion": {
+                "sadness": 0.035901,
+                "joy": 0.061135,
+                "fear": 0.03938,
+                "disgust": 0.300393,
+                "anger": 0.070877
+            },
+            "count": 2
+        },
+        "police officers": {
+            "relevance": 0.620056,
+            "emotion": {
+                "sadness": 0.140605,
+                "joy": 0.011024,
+                "fear": 0.092914,
+                "disgust": 0.24216800000000002,
+                "anger": 0.068094
+            },
+            "count": 4
+        },
+        "public hearings": {
+            "relevance": 0.633575,
+            "emotion": {
+                "sadness": 0.137245,
+                "joy": 0.036649,
+                "fear": 0.020248,
+                "disgust": 0.068639,
+                "anger": 0.050235
+            },
+            "count": 1
+        },
+        "Rep. Bennie G. Thompson": {
+            "relevance": 0.629042,
+            "emotion": {
+                "sadness": 0.246708,
+                "joy": 0.023725,
+                "fear": 0.068469,
+                "disgust": 0.11434,
+                "anger": 0.11781
+            },
+            "count": 2
+        },
+        "young people": {
+            "relevance": 0.650757,
+            "emotion": {
+                "sadness": 0.235257,
+                "joy": 0.275614,
+                "fear": 0.034313,
+                "disgust": 0.104276,
+                "anger": 0.043282
+            },
+            "count": 6
+        },
+        "Donald Trump\u2019s political action committee": {
+            "relevance": 0.66536,
+            "emotion": {
+                "sadness": 0.090643,
+                "joy": 0.069342,
+                "fear": 0.038266,
+                "disgust": 0.219533,
+                "anger": 0.075403
+            },
+            "count": 1
+        },
+        "classified documents": {
+            "relevance": 0.602569,
+            "emotion": {
+                "sadness": 0.085491,
+                "joy": 0.107693,
+                "fear": 0.095165,
+                "disgust": 0.148649,
+                "anger": 0.058123
+            },
+            "count": 3
+        },
+        "former president": {
+            "relevance": 0.689187,
+            "emotion": {
+                "sadness": 0.094569,
+                "joy": 0.068948,
+                "fear": 0.020341,
+                "disgust": 0.165132,
+                "anger": 0.101935
+            },
+            "count": 2
+        },
+        "former vice president": {
+            "relevance": 0.581523,
+            "emotion": {
+                "sadness": 0.587968,
+                "joy": 0.105565,
+                "fear": 0.043063,
+                "disgust": 0.079261,
+                "anger": 0.059345
+            },
+            "count": 1
+        },
+        "longtime federal prosecutor": {
+            "relevance": 0.655762,
+            "emotion": {
+                "sadness": 0.186948,
+                "joy": 0.060602,
+                "fear": 0.04995,
+                "disgust": 0.060586,
+                "anger": 0.021619
+            },
+            "count": 1
+        },
+        "storyCommentGiftArticleShareJack Smith": {
+            "relevance": 0.626433,
+            "emotion": {
+                "sadness": 0.045399,
+                "joy": 0.264099,
+                "fear": 0.057221,
+                "disgust": 0.129281,
+                "anger": 0.019423
+            },
+            "count": 1
+        },
+        "House Speaker Nancy Pelosi": {
+            "relevance": 0.70496,
+            "emotion": {
+                "sadness": 0.108605,
+                "joy": 0.145671,
+                "fear": 0.075588,
+                "disgust": 0.400287,
+                "anger": 0.044145
+            },
+            "count": 1
+        },
+        "45th Kennedy Center Honors": {
+            "relevance": 0.612003,
+            "emotion": {
+                "sadness": 0.126307,
+                "joy": 0.19712,
+                "fear": 0.050036,
+                "disgust": 0.200498,
+                "anger": 0.032927
+            },
+            "count": 1
+        },
+        "chief medical advisor Anthony Fauci": {
+            "relevance": 0.680597,
+            "emotion": {
+                "sadness": 0.178142,
+                "joy": 0.117209,
+                "fear": 0.076618,
+                "disgust": 0.010102,
+                "anger": 0.049899
+            },
+            "count": 1
+        },
+        "final message": {
+            "relevance": 0.660922,
+            "emotion": {
+                "sadness": 0.495992,
+                "joy": 0.189403,
+                "fear": 0.063089,
+                "disgust": 0.009624,
+                "anger": 0.025102
+            },
+            "count": 2
+        },
+        "President Donald Trump": {
+            "relevance": 0.70215,
+            "emotion": {
+                "sadness": 0.060827,
+                "joy": 0.484841,
+                "fear": 0.037107,
+                "disgust": 0.080762,
+                "anger": 0.050752
+            },
+            "count": 1
+        },
+        "far-right activist Nick Fuentes": {
+            "relevance": 0.695054,
+            "emotion": {
+                "sadness": 0.060335,
+                "joy": 0.252455,
+                "fear": 0.026653,
+                "disgust": 0.126777,
+                "anger": 0.040058
+            },
+            "count": 2
+        },
+        "Kennedy Center Honors": {
+            "relevance": 0.61589,
+            "emotion": {
+                "sadness": 0.15557,
+                "joy": 0.051095,
+                "fear": 0.006943,
+                "disgust": 0.221001,
+                "anger": 0.126373
+            },
+            "count": 1
+        }
     },
     "https://www.foxnews.com/": {
-        "sadness": 0.241431875,
-        "joy": 0.281744875,
-        "fear": 0.08733825,
-        "disgust": 0.08852275,
-        "anger": 0.087958125
+        "Joe Rogan": {
+            "relevance": 0.659499,
+            "emotion": {
+                "sadness": 0.106351,
+                "joy": 0.294756,
+                "fear": 0.025472,
+                "disgust": 0.066511,
+                "anger": 0.04887
+            },
+            "count": 2
+        },
+        "Cooper Neill": {
+            "relevance": 0.605782,
+            "emotion": {
+                "sadness": 0.097604,
+                "joy": 0.223437,
+                "fear": 0.012166,
+                "disgust": 0.05866,
+                "anger": 0.037609
+            },
+            "count": 1
+        },
+        "governmentThe Biden administration": {
+            "relevance": 0.750765,
+            "emotion": {
+                "sadness": 0.103494,
+                "joy": 0.312933,
+                "fear": 0.072278,
+                "disgust": 0.01084,
+                "anger": 0.012436
+            },
+            "count": 1
+        },
+        "wind projects": {
+            "relevance": 0.698465,
+            "emotion": {
+                "sadness": 0.103494,
+                "joy": 0.312933,
+                "fear": 0.072278,
+                "disgust": 0.01084,
+                "anger": 0.012436
+            },
+            "count": 1
+        },
+        "Democratic Party": {
+            "relevance": 0.784094,
+            "emotion": {
+                "sadness": 0.206255,
+                "joy": 0.094578,
+                "fear": 0.033079,
+                "disgust": 0.229545,
+                "anger": 0.040567
+            },
+            "count": 15
+        },
+        "New York Daily News": {
+            "relevance": 0.654435,
+            "emotion": {
+                "sadness": 0.085077,
+                "joy": 0.063971,
+                "fear": 0.01138,
+                "disgust": 0.272415,
+                "anger": 0.046604
+            },
+            "count": 1
+        },
+        "Dr. Jeff MyersLIFESTYLE": {
+            "relevance": 0.927652,
+            "count": 1
+        },
+        "truth\u2019Dr. Jeff Myers": {
+            "relevance": 0.784981,
+            "emotion": {
+                "sadness": 0.168927,
+                "joy": 0.420931,
+                "fear": 0.052141,
+                "disgust": 0.362666,
+                "anger": 0.007867
+            },
+            "count": 1
+        },
+        "agoRussian military gear": {
+            "relevance": 0.90337,
+            "emotion": {
+                "sadness": 0.439581,
+                "joy": 0.001657,
+                "fear": 0.194945,
+                "disgust": 0.035961,
+                "anger": 0.077732
+            },
+            "count": 1
+        },
+        "harsh winters": {
+            "relevance": 0.899637,
+            "emotion": {
+                "sadness": 0.439581,
+                "joy": 0.001657,
+                "fear": 0.194945,
+                "disgust": 0.035961,
+                "anger": 0.077732
+            },
+            "count": 1
+        },
+        "Texas woman": {
+            "relevance": 0.930657,
+            "emotion": {
+                "sadness": 0.09311,
+                "joy": 0.855671,
+                "fear": 0.010749,
+                "disgust": 0.032405,
+                "anger": 0.002773
+            },
+            "count": 1
+        },
+        "child": {
+            "relevance": 0.649546,
+            "emotion": {
+                "sadness": 0.09311,
+                "joy": 0.855671,
+                "fear": 0.010749,
+                "disgust": 0.032405,
+                "anger": 0.002773
+            },
+            "count": 1
+        },
+        "day agoBalenciaga ads": {
+            "relevance": 0.955008,
+            "emotion": {
+                "sadness": 0.154034,
+                "joy": 0.011978,
+                "fear": 0.159454,
+                "disgust": 0.237555,
+                "anger": 0.042717
+            },
+            "count": 1
+        },
+        "symptom of a deadly disease": {
+            "relevance": 0.849997,
+            "emotion": {
+                "sadness": 0.154034,
+                "joy": 0.011978,
+                "fear": 0.159454,
+                "disgust": 0.237555,
+                "anger": 0.042717
+            },
+            "count": 1
+        },
+        "AP Photo": {
+            "relevance": 0.840808,
+            "emotion": {
+                "sadness": 0.128056,
+                "joy": 0.056432,
+                "fear": 0.048754,
+                "disgust": 0.504762,
+                "anger": 0.033282
+            },
+            "count": 1
+        },
+        "President Biden want": {
+            "relevance": 0.769048,
+            "emotion": {
+                "sadness": 0.128056,
+                "joy": 0.056432,
+                "fear": 0.048754,
+                "disgust": 0.504762,
+                "anger": 0.033282
+            },
+            "count": 1
+        },
+        "Christie's pulls T. rex Shen": {
+            "relevance": 0.953923,
+            "count": 1
+        },
+        "reportAuction house Christie": {
+            "relevance": 0.753472,
+            "emotion": {
+                "sadness": 0.059706,
+                "joy": 0.157745,
+                "fear": 0.080809,
+                "disgust": 0.034792,
+                "anger": 0.051009
+            },
+            "count": 1
+        },
+        "hard-of-hearing AmericansThose": {
+            "relevance": 0.895759,
+            "emotion": {
+                "sadness": 0.63516,
+                "joy": 0.188564,
+                "fear": 0.063121,
+                "disgust": 0.032072,
+                "anger": 0.013622
+            },
+            "count": 1
+        },
+        "mild-to-moderate hearing loss": {
+            "relevance": 0.857238,
+            "emotion": {
+                "sadness": 0.63516,
+                "joy": 0.188564,
+                "fear": 0.063121,
+                "disgust": 0.032072,
+                "anger": 0.013622
+            },
+            "count": 1
+        },
+        "American troops": {
+            "relevance": 0.845627,
+            "emotion": {
+                "sadness": 0.249276,
+                "joy": 0.008487,
+                "fear": 0.228822,
+                "disgust": 0.037809,
+                "anger": 0.085563
+            },
+            "count": 1
+        },
+        "days agoPentagon issues": {
+            "relevance": 0.843701,
+            "emotion": {
+                "sadness": 0.249276,
+                "joy": 0.008487,
+                "fear": 0.228822,
+                "disgust": 0.037809,
+                "anger": 0.085563
+            },
+            "count": 1
+        },
+        "Joe Biden": {
+            "relevance": 0.97488,
+            "count": 1
+        },
+        "critical Senate runoff electionPresident Biden": {
+            "relevance": 0.913998,
+            "emotion": {
+                "sadness": 0.181922,
+                "joy": 0.040079,
+                "fear": 0.102814,
+                "disgust": 0.104665,
+                "anger": 0.096088
+            },
+            "count": 1
+        },
+        "prevnextImage": {
+            "relevance": 0.875323,
+            "emotion": {
+                "sadness": 0.294451,
+                "joy": 0.147847,
+                "fear": 0.060872,
+                "disgust": 0.094339,
+                "anger": 0.044043
+            },
+            "count": 655
+        },
+        "Political Cartoon of the Day": {
+            "relevance": 0.588663,
+            "count": 1
+        },
+        "Celebrity News": {
+            "relevance": 0.907573,
+            "count": 1
+        },
+        "Adam Sandler": {
+            "relevance": 0.813882,
+            "emotion": {
+                "sadness": 0.085765,
+                "joy": 0.915783,
+                "fear": 0.017611,
+                "disgust": 0.080473,
+                "anger": 0.01232
+            },
+            "count": 1
+        }
     },
-    "https://www.nytimes.com/": {
-        "sadness": 0.2742816666666667,
-        "joy": 0.28724266666666665,
-        "fear": 0.09723033333333335,
-        "disgust": 0.06577,
-        "anger": 0.06994266666666667
-    },
-    "https://www.infowars.com/": {
-        "sadness": 0.16944259999999997,
-        "joy": 0.2236898,
-        "fear": 0.0901192,
-        "disgust": 0.0813806,
-        "anger": 0.097146
+    "https://www.oann.com/category/newsroom/": {
+        "runoff electionGeorgia voters": {
+            "relevance": 0.905561,
+            "emotion": {
+                "sadness": 0.27691499999999997,
+                "joy": 0.0415695,
+                "fear": 0.06451575000000001,
+                "disgust": 0.19316425,
+                "anger": 0.02756325
+            },
+            "count": 3
+        },
+        "Senate runoff election.Read MoreWalker": {
+            "relevance": 0.795049,
+            "emotion": {
+                "sadness": 0.267611,
+                "joy": 0.040154,
+                "fear": 0.07176,
+                "disgust": 0.193496,
+                "anger": 0.026085
+            },
+            "count": 2
+        },
+        "Telecommunication Services of Trinidad": {
+            "relevance": 0.739916,
+            "emotion": {
+                "sadness": 0.295303,
+                "joy": 0.312793,
+                "fear": 0.023647,
+                "disgust": 0.065034,
+                "anger": 0.031368
+            },
+            "count": 1
+        },
+        "One America News Network": {
+            "relevance": 0.728808,
+            "emotion": {
+                "sadness": 0.286965,
+                "joy": 0.136256,
+                "fear": 0.016204,
+                "disgust": 0.016431,
+                "anger": 0.010383
+            },
+            "count": 1
+        },
+        "personal data": {
+            "relevance": 0.966838,
+            "emotion": {
+                "sadness": 0.040953,
+                "joy": 0.736665,
+                "fear": 0.092871,
+                "disgust": 0.06815,
+                "anger": 0.027073
+            },
+            "count": 3
+        },
+        "EU privacy watchdog rules": {
+            "relevance": 0.84417,
+            "emotion": {
+                "sadness": 0.040953,
+                "joy": 0.736665,
+                "fear": 0.092871,
+                "disgust": 0.06815,
+                "anger": 0.027073
+            },
+            "count": 2
+        },
+        "America\u2019s Neil W. McCabe": {
+            "relevance": 0.890703,
+            "emotion": {
+                "sadness": 0.217741,
+                "joy": 0.308893,
+                "fear": 0.021244,
+                "disgust": 0.187127,
+                "anger": 0.02915
+            },
+            "count": 1
+        },
+        "fake RepublicansOAN NewsroomUPDATED": {
+            "relevance": 0.830844,
+            "emotion": {
+                "sadness": 0.087527,
+                "joy": 0.432125,
+                "fear": 0.012429,
+                "disgust": 0.013307,
+                "anger": 0.043148
+            },
+            "count": 1
+        },
+        "Latest News": {
+            "relevance": 0.913618,
+            "emotion": {
+                "sadness": 0.099153,
+                "joy": 0.328961,
+                "fear": 0.037603,
+                "disgust": 0.011876,
+                "anger": 0.019955
+            },
+            "count": 1
+        },
+        "interesting OAN news": {
+            "relevance": 0.775654,
+            "emotion": {
+                "sadness": 0.099153,
+                "joy": 0.328961,
+                "fear": 0.037603,
+                "disgust": 0.011876,
+                "anger": 0.019955
+            },
+            "count": 1
+        },
+        "Trea Turner": {
+            "relevance": 0.781869,
+            "emotion": {
+                "sadness": 0.20362,
+                "joy": 0.162786,
+                "fear": 0.014284,
+                "disgust": 0.118413,
+                "anger": 0.040171
+            },
+            "count": 1
+        },
+        "Philadelphia Phillies": {
+            "relevance": 0.70127,
+            "emotion": {
+                "sadness": 0.373528,
+                "joy": 0.114214,
+                "fear": 0.019498,
+                "disgust": 0.112194,
+                "anger": 0.042451
+            },
+            "count": 2
+        },
+        "Infowars Interview": {
+            "relevance": 0.851858,
+            "emotion": {
+                "sadness": 0.046415,
+                "joy": 0.421198,
+                "fear": 0.054115,
+                "disgust": 0.047056,
+                "anger": 0.021572
+            },
+            "count": 1
+        },
+        "Genderqueer Jesus": {
+            "relevance": 0.771143,
+            "emotion": {
+                "sadness": 0.046415,
+                "joy": 0.421198,
+                "fear": 0.054115,
+                "disgust": 0.047056,
+                "anger": 0.021572
+            },
+            "count": 1
+        },
+        "company\u2019s YouTube platform": {
+            "relevance": 0.637535,
+            "emotion": {
+                "sadness": 0.134761,
+                "joy": 0.118751,
+                "fear": 0.044758,
+                "disgust": 0.056264,
+                "anger": 0.037505
+            },
+            "count": 1
+        },
+        "spread of misinformation": {
+            "relevance": 0.621959,
+            "emotion": {
+                "sadness": 0.134761,
+                "joy": 0.118751,
+                "fear": 0.044758,
+                "disgust": 0.056264,
+                "anger": 0.037505
+            },
+            "count": 1
+        },
+        "Dinesh D\u2019Souza": {
+            "relevance": 0.949565,
+            "emotion": {
+                "sadness": 0.23678799999999997,
+                "joy": 0.067524,
+                "fear": 0.035805,
+                "disgust": 0.52183,
+                "anger": 0.065992
+            },
+            "count": 6
+        },
+        "voter fraud": {
+            "relevance": 0.875349,
+            "emotion": {
+                "sadness": 0.236788,
+                "joy": 0.067524,
+                "fear": 0.035805,
+                "disgust": 0.52183,
+                "anger": 0.065992
+            },
+            "count": 2
+        },
+        "corporate pushbackBy Alexandra Alper WASHINGTON": {
+            "relevance": 0.839047,
+            "emotion": {
+                "sadness": 0.068004,
+                "joy": 0.247258,
+                "fear": 0.10304799999999999,
+                "disgust": 0.035561,
+                "anger": 0.070024
+            },
+            "count": 2
+        },
+        "Chinese chips": {
+            "relevance": 0.800457,
+            "emotion": {
+                "sadness": 0.08443166666666667,
+                "joy": 0.2200136666666667,
+                "fear": 0.09537549999999999,
+                "disgust": 0.04051866666666667,
+                "anger": 0.07321899999999999
+            },
+            "count": 5
+        },
+        "AirTag devices": {
+            "relevance": 0.639195,
+            "emotion": {
+                "sadness": 0.240294,
+                "joy": 0.019731,
+                "fear": 0.016178,
+                "disgust": 0.089313,
+                "anger": 0.074668
+            },
+            "count": 1
+        },
+        "malicious purposes.The plaintiffs": {
+            "relevance": 0.604886,
+            "emotion": {
+                "sadness": 0.240294,
+                "joy": 0.019731,
+                "fear": 0.016178,
+                "disgust": 0.089313,
+                "anger": 0.074668
+            },
+            "count": 1
+        },
+        "final cases": {
+            "relevance": 0.77234,
+            "emotion": {
+                "sadness": 0.304827,
+                "joy": 0.045816,
+                "fear": 0.042783,
+                "disgust": 0.192169,
+                "anger": 0.031998
+            },
+            "count": 1
+        },
+        "America News": {
+            "relevance": 0.877275,
+            "emotion": {
+                "sadness": 0.128917,
+                "joy": 0.779698,
+                "fear": 0.022376,
+                "disgust": 0.032358,
+                "anger": 0.013701
+            },
+            "count": 1
+        },
+        "Television Premiere of Election Integrity Film": {
+            "relevance": 0.855235,
+            "emotion": {
+                "sadness": 0.128917,
+                "joy": 0.779698,
+                "fear": 0.022376,
+                "disgust": 0.032358,
+                "anger": 0.013701
+            },
+            "count": 2
+        },
+        "U.S. lawmakers": {
+            "relevance": 0.686236,
+            "emotion": {
+                "sadness": 0.16657,
+                "joy": 0.083792,
+                "fear": 0.057013,
+                "disgust": 0.065307,
+                "anger": 0.089194
+            },
+            "count": 1
+        },
+        "lawyer Avenatti": {
+            "relevance": 0.682128,
+            "emotion": {
+                "sadness": 0.134138,
+                "joy": 0.136926,
+                "fear": 0.008875,
+                "disgust": 0.075717,
+                "anger": 0.088677
+            },
+            "count": 1
+        },
+        "lengthy prison term": {
+            "relevance": 0.666641,
+            "emotion": {
+                "sadness": 0.165872,
+                "joy": 0.053673,
+                "fear": 0.01531,
+                "disgust": 0.168668,
+                "anger": 0.100929
+            },
+            "count": 1
+        },
+        "NASA\u2019s Orion Spacecraft": {
+            "relevance": 0.858532,
+            "emotion": {
+                "sadness": 0.16625,
+                "joy": 0.742272,
+                "fear": 0.074635,
+                "disgust": 0.007741,
+                "anger": 0.016087
+            },
+            "count": 1
+        },
+        "MoonNASA\u2019s Orion spacecraft": {
+            "relevance": 0.678272,
+            "emotion": {
+                "sadness": 0.16625,
+                "joy": 0.742272,
+                "fear": 0.074635,
+                "disgust": 0.007741,
+                "anger": 0.016087
+            },
+            "count": 1
+        },
+        "Spain matchBy Andrew Mills DOHA": {
+            "relevance": 0.892781,
+            "emotion": {
+                "sadness": 0.236116,
+                "joy": 0.063796,
+                "fear": 0.040327,
+                "disgust": 0.093578,
+                "anger": 0.022208
+            },
+            "count": 1
+        },
+        "Morocco fans": {
+            "relevance": 0.834115,
+            "emotion": {
+                "sadness": 0.236116,
+                "joy": 0.063796,
+                "fear": 0.040327,
+                "disgust": 0.093578,
+                "anger": 0.022208
+            },
+            "count": 1
+        },
+        "taxpayer dollars": {
+            "relevance": 0.952313,
+            "emotion": {
+                "sadness": 0.106702,
+                "joy": 0.095549,
+                "fear": 0.03213,
+                "disgust": 0.24117,
+                "anger": 0.061357
+            },
+            "count": 2
+        },
+        "minor sex changesRepresentative Mary Miller": {
+            "relevance": 0.905013,
+            "emotion": {
+                "sadness": 0.076126,
+                "joy": 0.089495,
+                "fear": 0.035698,
+                "disgust": 0.2089,
+                "anger": 0.050166
+            },
+            "count": 1
+        },
+        "GOP candidate Herschel Walker": {
+            "relevance": 0.808731,
+            "emotion": {
+                "sadness": 0.271495,
+                "joy": 0.223759,
+                "fear": 0.024964,
+                "disgust": 0.085729,
+                "anger": 0.06203
+            },
+            "count": 1
+        },
+        "Senate runoff electionPeople gather": {
+            "relevance": 0.703608,
+            "emotion": {
+                "sadness": 0.54675,
+                "joy": 0.148543,
+                "fear": 0.033359,
+                "disgust": 0.053213,
+                "anger": 0.110883
+            },
+            "count": 1
+        },
+        "Maricopa County election centers": {
+            "relevance": 0.702155,
+            "emotion": {
+                "sadness": 0.375931,
+                "joy": 0.054897,
+                "fear": 0.017541,
+                "disgust": 0.030334,
+                "anger": 0.132582
+            },
+            "count": 1
+        },
+        "voting machines problems": {
+            "relevance": 0.663888,
+            "emotion": {
+                "sadness": 0.375931,
+                "joy": 0.054897,
+                "fear": 0.017541,
+                "disgust": 0.030334,
+                "anger": 0.132582
+            },
+            "count": 1
+        },
+        "Ultra MAGA Patriot retreatOAN NewsroomUPDATED": {
+            "relevance": 0.942742,
+            "emotion": {
+                "sadness": 0.1101,
+                "joy": 0.329271,
+                "fear": 0.017567,
+                "disgust": 0.016697,
+                "anger": 0.054543
+            },
+            "count": 1
+        },
+        "American Freedom Tour": {
+            "relevance": 0.911889,
+            "emotion": {
+                "sadness": 0.1101,
+                "joy": 0.329271,
+                "fear": 0.017567,
+                "disgust": 0.016697,
+                "anger": 0.054543
+            },
+            "count": 2
+        }
     }
 }

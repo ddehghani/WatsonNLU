@@ -20,9 +20,16 @@ def get_domain(url: str) -> str:
 
 
 def get_absolute_url(link: str, base_url: str):
-    return link if link.startswith('http') or link.startswith('www') else base_url + link
+    return link if link.startswith('http') or link.startswith('www') else base_url[:len(base_url) - 1] + link
 
 
 def is_same_domain(url:str, other_url:str) -> str:
     return get_domain(url) == get_domain(other_url)
 
+
+def weighted_average_emotion(emotions_a: dict, count_a: int, emotions_b: dict, count_b: int) -> dict:
+    result = {}
+    total = count_a + count_b
+    for key in emotions_a:
+        result[key] = (emotions_a[key] * count_a + emotions_b[key] * count_b) / total
+    return result

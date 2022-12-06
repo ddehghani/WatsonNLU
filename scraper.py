@@ -2,7 +2,11 @@ import asyncio
 import aiohttp
 from bs4 import BeautifulSoup
 from util import *
+from watson import WatsonNLU
 
+API_KEY = 'YlZZ1p6TYqzpemeX5-sdCjtTJJOwblN1VtueSqW8bEwg'
+NLU_URL = 'https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/fa369057-a844-4eb1-a183-b9c1c88a1ca1'
+nlu = WatsonNLU(apikey = API_KEY, url = NLU_URL)
 
 async def fetch_and_parse_url(url: str, client: aiohttp.ClientSession, parser: callable, **kwargs):
     headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 13.0; rv:107.0) Gecko/20100101 Firefox/107.0'}
@@ -19,7 +23,6 @@ async def fetch_and_parse_url(url: str, client: aiohttp.ClientSession, parser: c
         # if no exception occured during fetching, parse it 
         return await parser(url, html, **kwargs)
        
-
 async def scrap_links(url: str, html: str, **kwargs):
     same_domain_only = kwargs.get('same_domain_only')
     kwargs.pop('same_domain_only', None) # **kwargs will be passed to BS4 so internal kwargs will be removed
@@ -33,26 +36,42 @@ async def scrap_links(url: str, html: str, **kwargs):
            found.add(link)
     return found
 
-def filter_articles_sync(*args, **kwargs):
-    return asyncio.run(filter_articles(*args, **kwargs))
+def process_articles(*args, **kwargs):
+    return asyncio.run(process_articles_async(*args, **kwargs))
 
-async def filter_articles(articles: dict[str, list]) -> dict[str, list]:
-    filtered_articles = {}
+async def process_articles_async(articles: dict[str, list]) -> dict[str, list]:
+    process_articles = {}
     for news_agency, links in articles.items():
         async with aiohttp.ClientSession() as client:
-            tasks = [fetch_and_parse_url(link, client, filters, filter_for = 'article') for link in links]
-            print(f'About to asynchronously filter {len(tasks)} links')
-            new_links = await asyncio.gather(*tasks)
-            filtered_articles[news_agency] = [link for link in new_links if link]
-    return filtered_articles
+            tasks = [fetch_and_parse_url(link, client, filter_and_analyze) for link in links]
+            print(f'About to asynchronously process {len(tasks)} links')
+            analyzed_links = await asyncio.gather(*tasks)
+            keywords = {}
+            for kwlist in analyzed_links:
+                if kwlist:
+                    for kw in kwlist:
+                        kwtext = kw.get('text')
+                        del kw['text']
+                        if kwtext not in keywords:
+                            keywords[kwtext] = kw
+                        elif "emotion" in keywords[kwtext]:
+                            keywords[kwtext]['count'] += kw['count']
+                            keywords[kwtext]['emotion'] = weighted_average_emotion(keywords[kwtext]['emotion'], keywords[kwtext]['count'], kw['emotion'], kw['count'])
+            process_articles[news_agency] = keywords
+    return process_articles
 
-
-async def filters(url: str, html: str, **kwargs) -> str:
+async def filter_and_analyze(url: str, html: str, **kwargs) -> str:
     parsed_html = BeautifulSoup(html, 'html.parser')
-    if filter_for := kwargs.get('filter_for'):
-        del kwargs["filter_for"] # dont pass this to bs4.find()
-        tag = parsed_html.find(filter_for, **kwargs)
-    return url if tag is not None else None # if filter_for param is not set return false
+    if url.startswith("https://www.infowars.com/"):
+        p_tags = parsed_html.findAll('p', **kwargs)
+        article_text = ""
+        for p_tag in p_tags:
+            if p_tag:
+                article_text += p_tag.get_text(strip=True)
+        return await nlu.analyze_text(text = article_text)
+    else:
+        article = parsed_html.find('article', **kwargs)
+        return await nlu.analyze_text(text = article.get_text(strip=True)) if article else None
 
 def deep_search_for_links_sync(*args, **kwargs) -> list[str]:
     return asyncio.run(deep_search_for_links(*args, **kwargs))
@@ -89,20 +108,3 @@ async def deep_search_for_links(*, source_url: str, already_extracted_links: dic
                             depth = depth - 1, 
                             max_links = max_links,
                             **kwargs)
-
-
-# async def worker(session):
-#     async with session.get(URL) as response:
-#         await response.read()
-
-
-# async def run(worker, *argv):
-#     async with g_thread_limit:
-#         await worker(*argv)
-
-
-# async def main():
-#     g_thread_limit = asyncio.Semaphore(MAXTHREAD)
-#     async with aiohttp.ClientSession() as session:
-#         await asyncio.gather(*[run(worker, session) for _ in range(MAXREQ)])
-

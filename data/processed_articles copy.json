@@ -1,0 +1,826 @@
+{
+    "https://www.nbcnews.com/": {
+        "top high school football player": {
+            "relevance": 0.612943,
+            "emotion": {
+                "sadness": 0.285607,
+                "joy": 0.093121,
+                "fear": 0.018103,
+                "disgust": 0.063975,
+                "anger": 0.036087
+            },
+            "count": 1
+        },
+        "elite athletes": {
+            "relevance": 0.599828,
+            "emotion": {
+                "sadness": 0.285607,
+                "joy": 0.093121,
+                "fear": 0.018103,
+                "disgust": 0.063975,
+                "anger": 0.036087
+            },
+            "count": 1
+        },
+        "Trump's call": {
+            "relevance": 0.705303,
+            "emotion": {
+                "sadness": 0.227217,
+                "joy": 0.005375,
+                "fear": 0.010911,
+                "disgust": 0.246172,
+                "anger": 0.253468
+            },
+            "count": 1
+        },
+        "Trump's statement": {
+            "relevance": 0.606867,
+            "emotion": {
+                "sadness": 0.163468,
+                "joy": 0.017391,
+                "fear": 0.040982,
+                "disgust": 0.273772,
+                "anger": 0.197604
+            },
+            "count": 2
+        },
+        "House Speaker Nancy Pelosi": {
+            "relevance": 0.678639,
+            "emotion": {
+                "sadness": 0.108123,
+                "joy": 0.173485,
+                "fear": 0.046175,
+                "disgust": 0.093251,
+                "anger": 0.026399
+            },
+            "count": 1
+        },
+        "messy leadership fightsDemocrats": {
+            "relevance": 0.614743,
+            "emotion": {
+                "sadness": 0.108123,
+                "joy": 0.173485,
+                "fear": 0.046175,
+                "disgust": 0.093251,
+                "anger": 0.026399
+            },
+            "count": 1
+        },
+        "Donald Trump": {
+            "relevance": 0.782957,
+            "emotion": {
+                "sadness": 0.172925,
+                "joy": 0.077081,
+                "fear": 0.047789,
+                "disgust": 0.133993,
+                "anger": 0.079843
+            },
+            "count": 1
+        },
+        "Trump team": {
+            "relevance": 0.635454,
+            "emotion": {
+                "sadness": 0.078254,
+                "joy": 0.040467,
+                "fear": 0.079786,
+                "disgust": 0.141446,
+                "anger": 0.086191
+            },
+            "count": 1
+        },
+        "House floor": {
+            "relevance": 0.610764,
+            "emotion": {
+                "sadness": 0.344414,
+                "joy": 0.040164,
+                "fear": 0.04899499999999999,
+                "disgust": 0.224832,
+                "anger": 0.09327800000000001
+            },
+            "count": 4
+        },
+        "Ohio Republican John Boehner": {
+            "relevance": 0.579887,
+            "emotion": {
+                "sadness": 0.182067,
+                "joy": 0.044789,
+                "fear": 0.03245,
+                "disgust": 0.083891,
+                "anger": 0.134414
+            },
+            "count": 2
+        },
+        "popular Atlanta": {
+            "relevance": 0.717165,
+            "emotion": {
+                "sadness": 0.441542,
+                "joy": 0.025987,
+                "fear": 0.061031,
+                "disgust": 0.022227,
+                "anger": 0.018465
+            },
+            "count": 1
+        },
+        "centerA group of people": {
+            "relevance": 0.655911,
+            "emotion": {
+                "sadness": 0.446987,
+                "joy": 0.012983,
+                "fear": 0.088516,
+                "disgust": 0.024156,
+                "anger": 0.022679
+            },
+            "count": 1
+        },
+        "Shay Horse": {
+            "relevance": 0.990787,
+            "emotion": {
+                "sadness": 0.137483,
+                "joy": 0.246849,
+                "fear": 0.039588,
+                "disgust": 0.06524,
+                "anger": 0.031836
+            },
+            "count": 1
+        },
+        "AP fileCongressPolice officers": {
+            "relevance": 0.716596,
+            "emotion": {
+                "sadness": 0.137483,
+                "joy": 0.246849,
+                "fear": 0.039588,
+                "disgust": 0.06524,
+                "anger": 0.031836
+            },
+            "count": 1
+        }
+    },
+    "https://www.usatoday.com/": {
+        "former Southern White House": {
+            "relevance": 0.703113,
+            "emotion": {
+                "sadness": 0.398829,
+                "joy": 0.005219,
+                "fear": 0.059831,
+                "disgust": 0.10244,
+                "anger": 0.096886
+            },
+            "count": 1
+        },
+        "FBI agents": {
+            "relevance": 0.6882,
+            "emotion": {
+                "sadness": 0.14479,
+                "joy": 0.032764,
+                "fear": 0.139587,
+                "disgust": 0.139174,
+                "anger": 0.326213
+            },
+            "count": 1
+        },
+        "POLITICSDonald TrumpAdd TopicDonald Trump": {
+            "relevance": 0.673668,
+            "emotion": {
+                "sadness": 0.399379,
+                "joy": 0.137871,
+                "fear": 0.01263,
+                "disgust": 0.130703,
+                "anger": 0.07998
+            },
+            "count": 1
+        },
+        "former president": {
+            "relevance": 0.660107,
+            "emotion": {
+                "sadness": 0.311329,
+                "joy": 0.085454,
+                "fear": 0.03233,
+                "disgust": 0.166074,
+                "anger": 0.128032
+            },
+            "count": 4
+        },
+        "POLITICSRon DeSantisAdd TopicElon Musk": {
+            "relevance": 0.650567,
+            "emotion": {
+                "sadness": 0.103873,
+                "joy": 0.121816,
+                "fear": 0.064319,
+                "disgust": 0.038951,
+                "anger": 0.042318
+            },
+            "count": 1
+        },
+        "Ron DeSantis": {
+            "relevance": 0.642767,
+            "emotion": {
+                "sadness": 0.103873,
+                "joy": 0.121816,
+                "fear": 0.064319,
+                "disgust": 0.038951,
+                "anger": 0.042318
+            },
+            "count": 1
+        },
+        "presidential election": {
+            "relevance": 0.678467,
+            "emotion": {
+                "sadness": 0.30342,
+                "joy": 0.01883,
+                "fear": 0.051806,
+                "disgust": 0.250624,
+                "anger": 0.138947
+            },
+            "count": 2
+        },
+        "State-level law enforcement units": {
+            "relevance": 0.602928,
+            "emotion": {
+                "sadness": 0.275737,
+                "joy": 0.012433,
+                "fear": 0.021336,
+                "disgust": 0.422547,
+                "anger": 0.133544
+            },
+            "count": 1
+        },
+        "state\u2019s runoff Senate election": {
+            "relevance": 0.618719,
+            "emotion": {
+                "sadness": 0.134494,
+                "joy": 0.15518,
+                "fear": 0.066121,
+                "disgust": 0.033936,
+                "anger": 0.063478
+            },
+            "count": 1
+        },
+        "parts of Georgia": {
+            "relevance": 0.585149,
+            "emotion": {
+                "sadness": 0.134494,
+                "joy": 0.15518,
+                "fear": 0.066121,
+                "disgust": 0.033936,
+                "anger": 0.063478
+            },
+            "count": 1
+        },
+        "recession": {
+            "relevance": 0.576482,
+            "emotion": {
+                "sadness": 0.336074,
+                "joy": 0.069907,
+                "fear": 0.166995,
+                "disgust": 0.02075,
+                "anger": 0.040036
+            },
+            "count": 37
+        },
+        "annual rate": {
+            "relevance": 0.571892,
+            "emotion": {
+                "sadness": 0.171977,
+                "joy": 0.034862,
+                "fear": 0.110474,
+                "disgust": 0.060409,
+                "anger": 0.049557
+            },
+            "count": 1
+        },
+        "election laws": {
+            "relevance": 0.635292,
+            "emotion": {
+                "sadness": 0.299795,
+                "joy": 0.015413,
+                "fear": 0.025058,
+                "disgust": 0.158143,
+                "anger": 0.256113
+            },
+            "count": 1
+        },
+        "Maricopa County": {
+            "relevance": 0.62167,
+            "emotion": {
+                "sadness": 0.271675,
+                "joy": 0.056991,
+                "fear": 0.035883,
+                "disgust": 0.183217,
+                "anger": 0.193351
+            },
+            "count": 2
+        }
+    },
+    "https://www.foxnews.com/": {
+        "Sen. John Cornyn": {
+            "relevance": 0.608582,
+            "emotion": {
+                "sadness": 0.128857,
+                "joy": 0.079009,
+                "fear": 0.023427,
+                "disgust": 0.124792,
+                "anger": 0.074907
+            },
+            "count": 2
+        },
+        "AP Photo": {
+            "relevance": 0.58888,
+            "emotion": {
+                "sadness": 0.127002,
+                "joy": 0.067588,
+                "fear": 0.022781,
+                "disgust": 0.352871,
+                "anger": 0.054298
+            },
+            "count": 2
+        },
+        "FOX NEWS SUNDAYPublishedDecember": {
+            "relevance": 0.659367,
+            "emotion": {
+                "sadness": 0.175521,
+                "joy": 0.019338,
+                "fear": 0.068905,
+                "disgust": 0.132571,
+                "anger": 0.262888
+            },
+            "count": 1
+        },
+        "Former Vice President Mike Pence": {
+            "relevance": 0.636781,
+            "emotion": {
+                "sadness": 0.175521,
+                "joy": 0.019338,
+                "fear": 0.068905,
+                "disgust": 0.132571,
+                "anger": 0.262888
+            },
+            "count": 1
+        },
+        "former President Trump": {
+            "relevance": 0.694368,
+            "emotion": {
+                "sadness": 0.092383,
+                "joy": 0.061075,
+                "fear": 0.024092,
+                "disgust": 0.167286,
+                "anger": 0.180733
+            },
+            "count": 1
+        },
+        "Supreme Court": {
+            "relevance": 0.640292,
+            "emotion": {
+                "sadness": 0.153102,
+                "joy": 0.045046,
+                "fear": 0.073912,
+                "disgust": 0.117547,
+                "anger": 0.25734
+            },
+            "count": 6
+        },
+        "Bill Gates": {
+            "relevance": 0.654755,
+            "emotion": {
+                "sadness": 0.281454,
+                "joy": 0.245494,
+                "fear": 0.026712,
+                "disgust": 0.024739,
+                "anger": 0.031933
+            },
+            "count": 3
+        },
+        "Melinda Gates Foundation": {
+            "relevance": 0.607484,
+            "emotion": {
+                "sadness": 0.205351,
+                "joy": 0.272718,
+                "fear": 0.026802,
+                "disgust": 0.051781,
+                "anger": 0.048377
+            },
+            "count": 4
+        },
+        "Fox NewsFacebookTwitterFlipboardCommentsPrintEmailcloseVideoSeen": {
+            "relevance": 0.588917,
+            "emotion": {
+                "sadness": 0.18681,
+                "joy": 0.02233,
+                "fear": 0.049513,
+                "disgust": 0.144057,
+                "anger": 0.041234
+            },
+            "count": 1
+        },
+        "FOX NEWS APPThe outlet": {
+            "relevance": 0.584408,
+            "emotion": {
+                "sadness": 0.251178,
+                "joy": 0.025383,
+                "fear": 0.022795,
+                "disgust": 0.218947,
+                "anger": 0.070076
+            },
+            "count": 1
+        },
+        "Virginia gunman Andre Bing": {
+            "relevance": 0.628998,
+            "emotion": {
+                "sadness": 0.226425,
+                "joy": 0.013653,
+                "fear": 0.049824,
+                "disgust": 0.119991,
+                "anger": 0.028967
+            },
+            "count": 1
+        },
+        "Billy Schuerman": {
+            "relevance": 0.58517,
+            "emotion": {
+                "sadness": 0.158778,
+                "joy": 0.052741,
+                "fear": 0.083225,
+                "disgust": 0.280789,
+                "anger": 0.053799
+            },
+            "count": 2
+        },
+        "K-LOVE Fan Awards": {
+            "relevance": 0.592501,
+            "emotion": {
+                "sadness": 0.112038,
+                "joy": 0.944589,
+                "fear": 0.003759,
+                "disgust": 0.006318,
+                "anger": 0.014369
+            },
+            "count": 1
+        },
+        "Fox NewsFacebookTwitterFlipboardCommentsPrintEmailcloseVideoHollywood stars": {
+            "relevance": 0.587219,
+            "emotion": {
+                "sadness": 0.060055,
+                "joy": 0.984259,
+                "fear": 0.003285,
+                "disgust": 0.016759,
+                "anger": 0.003567
+            },
+            "count": 1
+        },
+        "bedJudge Vivian Polan\u00eda": {
+            "relevance": 0.667598,
+            "emotion": {
+                "sadness": 0.215939,
+                "joy": 0.021506,
+                "fear": 0.0614,
+                "disgust": 0.150701,
+                "anger": 0.044335
+            },
+            "count": 1
+        },
+        "racy Instagram postsByBradford Betz": {
+            "relevance": 0.635843,
+            "emotion": {
+                "sadness": 0.215939,
+                "joy": 0.021506,
+                "fear": 0.0614,
+                "disgust": 0.150701,
+                "anger": 0.044335
+            },
+            "count": 1
+        },
+        "Al Roker": {
+            "relevance": 0.666961,
+            "emotion": {
+                "sadness": 0.221058,
+                "joy": 0.415558,
+                "fear": 0.030019,
+                "disgust": 0.045358,
+                "anger": 0.017086
+            },
+            "count": 4
+        },
+        "Eric Liebowitz": {
+            "relevance": 0.629822,
+            "emotion": {
+                "sadness": 0.144538,
+                "joy": 0.373725,
+                "fear": 0.022039,
+                "disgust": 0.027954,
+                "anger": 0.04147
+            },
+            "count": 1
+        },
+        "time bill": {
+            "relevance": 0.696129,
+            "emotion": {
+                "sadness": 0.177441,
+                "joy": 0.030878,
+                "fear": 0.043176,
+                "disgust": 0.085313,
+                "anger": 0.081202
+            },
+            "count": 2
+        },
+        "poor health": {
+            "relevance": 0.665446,
+            "emotion": {
+                "sadness": 0.188651,
+                "joy": 0.061495,
+                "fear": 0.108137,
+                "disgust": 0.046429,
+                "anger": 0.057489
+            },
+            "count": 1
+        }
+    },
+    "https://www.nytimes.com/": {
+        "Allen H. Weisselberg": {
+            "relevance": 0.627436,
+            "emotion": {
+                "sadness": 0.120444,
+                "joy": 0.066465,
+                "fear": 0.021528,
+                "disgust": 0.051506,
+                "anger": 0.135837
+            },
+            "count": 2
+        },
+        "former president\u2019s company": {
+            "relevance": 0.615654,
+            "emotion": {
+                "sadness": 0.131632,
+                "joy": 0.474113,
+                "fear": 0.026032,
+                "disgust": 0.011297,
+                "anger": 0.009926
+            },
+            "count": 1
+        },
+        "supporting Mr. Trump": {
+            "relevance": 0.731883,
+            "emotion": {
+                "sadness": 0.048468,
+                "joy": 0.111271,
+                "fear": 0.013827,
+                "disgust": 0.21775,
+                "anger": 0.144265
+            },
+            "count": 1
+        },
+        "Donald J. Trump": {
+            "relevance": 0.703192,
+            "emotion": {
+                "sadness": 0.048468,
+                "joy": 0.111271,
+                "fear": 0.013827,
+                "disgust": 0.21775,
+                "anger": 0.144265
+            },
+            "count": 2
+        },
+        "Child Tax Credit": {
+            "relevance": 0.668499,
+            "emotion": {
+                "sadness": 0.414857,
+                "joy": 0.098093,
+                "fear": 0.037222,
+                "disgust": 0.042677,
+                "anger": 0.05282
+            },
+            "count": 3
+        },
+        "articleTax credit payments": {
+            "relevance": 0.609842,
+            "emotion": {
+                "sadness": 0.126932,
+                "joy": 0.251757,
+                "fear": 0.057444,
+                "disgust": 0.023805,
+                "anger": 0.025393
+            },
+            "count": 1
+        },
+        "Mr. Dworsky": {
+            "relevance": 0.69439,
+            "emotion": {
+                "sadness": 0.16543,
+                "joy": 0.325177,
+                "fear": 0.072593,
+                "disgust": 0.035574,
+                "anger": 0.044973
+            },
+            "count": 18
+        },
+        "Sneaky Price IncreasesEdgar Dworsky": {
+            "relevance": 0.690215,
+            "emotion": {
+                "sadness": 0.067729,
+                "joy": 0.308344,
+                "fear": 0.011962,
+                "disgust": 0.037124,
+                "anger": 0.037172
+            },
+            "count": 1
+        },
+        "killings of Israeli Jews": {
+            "relevance": 0.579014,
+            "emotion": {
+                "sadness": 0.336805,
+                "joy": 0.063753,
+                "fear": 0.063823,
+                "disgust": 0.011857,
+                "anger": 0.064761
+            },
+            "count": 1
+        },
+        "unrelenting propaganda campaign": {
+            "relevance": 0.575362,
+            "emotion": {
+                "sadness": 0.573332,
+                "joy": 0.031643,
+                "fear": 0.170007,
+                "disgust": 0.107567,
+                "anger": 0.058777
+            },
+            "count": 1
+        },
+        "island of Ischia": {
+            "relevance": 0.64472,
+            "emotion": {
+                "sadness": 0.409382,
+                "joy": 0.111749,
+                "fear": 0.097224,
+                "disgust": 0.01287,
+                "anger": 0.098994
+            },
+            "count": 2
+        },
+        "rescue operations": {
+            "relevance": 0.595105,
+            "emotion": {
+                "sadness": 0.25785,
+                "joy": 0.152266,
+                "fear": 0.151262,
+                "disgust": 0.009779,
+                "anger": 0.187641
+            },
+            "count": 2
+        },
+        "Mr. Jones": {
+            "relevance": 0.796739,
+            "emotion": {
+                "sadness": 0.203028,
+                "joy": 0.212879,
+                "fear": 0.067599,
+                "disgust": 0.074406,
+                "anger": 0.079012
+            },
+            "count": 24
+        },
+        "main storyAlex Jones": {
+            "relevance": 0.762131,
+            "emotion": {
+                "sadness": 0.15385,
+                "joy": 0.31288,
+                "fear": 0.033818,
+                "disgust": 0.077079,
+                "anger": 0.033365
+            },
+            "count": 1
+        }
+    },
+    "https://www.infowars.com/": {
+        "usAffiliatesMedia InquiriesAboutSpecial ReportsOwen Shroyer": {
+            "relevance": 0.784862,
+            "emotion": {
+                "sadness": 0.079111,
+                "joy": 0.124013,
+                "fear": 0.06824,
+                "disgust": 0.045293,
+                "anger": 0.048439
+            },
+            "count": 1
+        },
+        "potential of Donald Trump": {
+            "relevance": 0.621752,
+            "emotion": {
+                "sadness": 0.079111,
+                "joy": 0.124013,
+                "fear": 0.06824,
+                "disgust": 0.045293,
+                "anger": 0.048439
+            },
+            "count": 1
+        },
+        "ex-President Donald Trump": {
+            "relevance": 0.705069,
+            "emotion": {
+                "sadness": 0.264922,
+                "joy": 0.096114,
+                "fear": 0.037374,
+                "disgust": 0.086744,
+                "anger": 0.047356
+            },
+            "count": 1
+        },
+        "presidential election": {
+            "relevance": 0.661142,
+            "emotion": {
+                "sadness": 0.217317,
+                "joy": 0.094244,
+                "fear": 0.029768,
+                "disgust": 0.122726,
+                "anger": 0.048259
+            },
+            "count": 1
+        },
+        "Massive Fraud": {
+            "relevance": 0.645721,
+            "emotion": {
+                "sadness": 0.209548,
+                "joy": 0.07346,
+                "fear": 0.037341,
+                "disgust": 0.150044,
+                "anger": 0.04224
+            },
+            "count": 1
+        },
+        "Fake News": {
+            "relevance": 0.6252,
+            "emotion": {
+                "sadness": 0.252001,
+                "joy": 0.045414,
+                "fear": 0.039357,
+                "disgust": 0.286469,
+                "anger": 0.057905
+            },
+            "count": 1
+        },
+        "usAffiliatesMedia InquiriesAboutpostedInvalid dateago": {
+            "relevance": 0.603437,
+            "emotion": {
+                "sadness": 0.285348,
+                "joy": 0.570457,
+                "fear": 0.071101,
+                "disgust": 0.028309,
+                "anger": 0.056747
+            },
+            "count": 3
+        },
+        "Search Results FoundNo Search Results FoundTerms of ServiceDMCAAdvertise": {
+            "relevance": 0.396563,
+            "emotion": {
+                "sadness": 0.285348,
+                "joy": 0.570457,
+                "fear": 0.071101,
+                "disgust": 0.028309,
+                "anger": 0.056747
+            },
+            "count": 3
+        },
+        "Alex Jones": {
+            "relevance": 0.83073,
+            "emotion": {
+                "sadness": 0.073932,
+                "joy": 0.139936,
+                "fear": 0.047778,
+                "disgust": 0.091106,
+                "anger": 0.071843
+            },
+            "count": 1
+        },
+        "Elon Musk": {
+            "relevance": 0.782189,
+            "emotion": {
+                "sadness": 0.073932,
+                "joy": 0.139936,
+                "fear": 0.047778,
+                "disgust": 0.091106,
+                "anger": 0.071843
+            },
+            "count": 1
+        },
+        "white supremacist": {
+            "relevance": 0.764199,
+            "emotion": {
+                "sadness": 0.101514,
+                "joy": 0.289334,
+                "fear": 0.049337,
+                "disgust": 0.035138,
+                "anger": 0.043738
+            },
+            "count": 1
+        },
+        "San Francisco": {
+            "relevance": 0.741535,
+            "emotion": {
+                "sadness": 0.101514,
+                "joy": 0.289334,
+                "fear": 0.049337,
+                "disgust": 0.035138,
+                "anger": 0.043738
+            },
+            "count": 1
+        }
+    }
+}
